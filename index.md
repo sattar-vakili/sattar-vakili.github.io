@@ -1,12 +1,12 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile-pic.jpg
+  src: /assets/img/photo_2021-04-07_10-50-022.jpg
   alt: website picture
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+  I am Hanifa Pilvar, a Ph.D. candidate at the School of Economics and Finance, Queen Mary University of London. My main areas of interest are empirical microeconomics and health econimics.
 </p>
 
 <p>
