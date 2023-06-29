@@ -13,21 +13,18 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Work
-    - name: Blog
+    - name: Research
+    - name: Teaching
 
 footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: yourmail@domain.com
-      link: mailto:yourmail@domain.com
-    - name: WeChat
-      value: YourWeChatUsername
-      link: "#"
-  follow:
-    - name: Twitter
-      link: http://twitter.com/YourTwitterUsername
+      value: h.pilvar[at]qmul.ac.uk
+      link: mailto:h.pilvar@qmul.ac.uk
+  Links:
+    - name: Google Scholar
+      link: https://scholar.google.dk/citations?hl=da&user=L9ALJ20AAAAJ
       username: "@YourTwitterUsername"
     - name: Facebook
       link: http://facebook.com/YourFacebookUsername
