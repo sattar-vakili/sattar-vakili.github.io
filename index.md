@@ -2,7 +2,7 @@
 layout: home
 profile_picture:
   src: /assets/img/photo_2021-04-07_10-50-022.jpg
-  alt: website picture
+  alt: hanifa pilvar
 ---
 
 <p>
