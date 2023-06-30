@@ -9,7 +9,7 @@ items:
     image:
       src: /assets/img/work/sand.png
       alt: sand
-    description: describe 
+    description: In this paper, we investigate the consequences of greater workload on primary care provision in England. GPs had an average of 0.28 additional appointments per absent colleague per day in 2016-2019. We employ instrumental variable to causally identify the effect of workload pressure on doctors on patient outcomes. We find that greater workload leads to fewer referrals being made. 
 ---
 
 This is the list of my papers:
