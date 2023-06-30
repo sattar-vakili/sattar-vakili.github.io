@@ -3,7 +3,7 @@ layout: research
 title: Research
 slug: /research
 items:
-  - title: Changing Physicians' Incentives to Control the C-section Rate: Evidence from a Major Health Care Reform in Iran
+  - title: Changing Physicians' Incentives to Control the Csection Rate: Evidence from a Major Health Care Reform in Iran
     image:
       src: /assets/img/work/water.png
       alt: water
