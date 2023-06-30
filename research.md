@@ -9,7 +9,9 @@ items:
     image:
       src: /assets/img/work/sand.png
       alt: sand
-    description: In this paper, we investigate the consequences of greater workload on primary care provision in England. GPs had an average of 0.28 additional appointments per absent colleague per day in 2016-2019. We employ instrumental variable to causally identify the effect of workload pressure on doctors on patient outcomes. We find that greater workload leads to fewer referrals being made: a 10\% increase in GP workload reduces the probability of referral by 0.06 percentage points, which is equivalent to a 3\% reduction. We also find that the effect is exacerbated for patients living in deprived areas, patients with more underlying health conditions and for smaller GP practices with fewer assistant and nursing staff. We show that the probability of giving any prescription is reduced by greater workload on average. However, conditional on a prescription occurring, GPs are likely to prescribe a shorter course of antibiotics, while the quantity of opioid drugs per prescription is larger when workload is greater. 
+    description: describe 
 ---
 
+This is the list of my papers:
+<br />
 <br />
