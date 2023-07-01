@@ -1,8 +1,4 @@
----
-layout: teaching
-title: Teaching
-slug: /teaching
----
-
-This is an example of a "Blog" page, displaying a list of posts.
-<br />
+# Research assistance experiences
+  - Development Economics
+  - Microeconomics
+  - Macroeconomics
