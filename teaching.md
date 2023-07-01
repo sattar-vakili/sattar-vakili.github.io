@@ -1,4 +1,4 @@
-# Research assistance experiences
+# Teaching assistance experiences
   - Development Economics
   - Microeconomics
   - Macroeconomics
