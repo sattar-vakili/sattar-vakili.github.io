@@ -3,7 +3,7 @@
 
 title: Hanifa Pilvar
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my personal website.
+  This is Hanifa"'"s personal website.
 baseurl: "/" # the subpath of the site
 url: "https://hanifa-pilvar.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
