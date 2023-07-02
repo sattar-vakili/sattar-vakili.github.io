@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-  I am Hanifa Pilvar, a Ph.D. candidate at the School of Economics and Finance, Queen Mary University of London. My main areas of interest are empirical microeconomics and health econimics.
+  I am Hanifa Pilvar, a Ph.D. candidate at the School of Economics and Finance, Queen Mary University of London. My primary research focuses on empirical microeconomics and health economics. Specifically, my work centers around understanding physician behavior and incentives, as well as the implications of physician shortages and potential strategies for mitigation. Additionally, I am actively engaged as a collaborator at The Health Foundation and serve as a research fellow at UCL. At UCL, I contribute to a project investigating the costs of admission of adolescents and children with mental health issues into pediatric wards.
 </p>
 
 
