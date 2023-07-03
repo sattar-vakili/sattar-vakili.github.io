@@ -38,7 +38,7 @@
                 src="{{ follow_icon_path }}"
                 alt="{{ follow.name | downcase }}"
               />
-              <a href="{{ follow.link }}">
+              <a href="{{ follow.link }}" target="_blank">
                 {% if follow.value and follow.value != "" and follow.value != nil %}
                   {{ follow.value }}
                 {% else %}
@@ -54,7 +54,7 @@
       {% if site.footer.show_powered_by == true %}
         <div class="footer-col footer-col-3 powered-by">
           <p>
-            powered by <a href="https://github.com/eliottvincent/bay">Bay</a> | {{ 'now' | date: "%Y" }}
+            powered by <a href="https://github.com/eliottvincent/bay" target="_blank">Bay</a> | {{ 'now' | date: "%Y" }}
           </p>
         </div>
       {% endif %}
