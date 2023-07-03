@@ -7,16 +7,16 @@
 
     <div class="page-content">
       <div class="wrapper">
-        <div class="teaching">
+        <div class="engagements">
           <h1 class="page-heading">{{ page.title }}</h1>
           {{ content }}
 
-          <p class="teaching-post-list">
+          <p class="engagements-post-list">
             {% for post in site.posts %}
 
               {% if post.draft != true %}
-                <span class="teaching-post-date">{{ post.date | date: "%-m/%-d/%y" }}</span>
-                <a href="{{ post.url | replace:".html","" | prepend: site.baseurl }}" class="teaching-post-title">
+                <span class="engagements-post-date">{{ post.date | date: "%-m/%-d/%y" }}</span>
+                <a href="{{ post.url | replace:".html","" | prepend: site.baseurl }}" class="engagements-post-title">
                   {{ post.title }}
                 </a>
                 <br />
