@@ -3,7 +3,7 @@
 ## 2023
   - <a href="https://healtheconomics.org/amo-event/2023-congress/" target="_blank">International Health Economics Association (IHEA) 2023 Congress</a>
   - <a href="https://hesg.org.uk/meetings/winter-2023-university-of-manchester/" target="_blank">HESG Winter meeting 2023 </a>
-  - <a href="[https://hesg.org.uk/meetings/winter-2023-university-of-manchester/](https://www.ashecon.org/2023-st-louis/)" target="_blank">ASHEcon 12th Annual Conference </a>
+  - <a href="https://www.ashecon.org/2023-st-louis/" target="_blank">ASHEcon 12th Annual Conference </a>
   
 ## 2022
   - <a href="https://knowledge4policy.ec.europa.eu/event/empirical-health-economics-workshop-2022-ehew-2022_en" target="_blank">Empirical Health Economics Workshop 2022 - EHEW 2022 </a>
