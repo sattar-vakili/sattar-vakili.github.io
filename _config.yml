@@ -17,7 +17,7 @@ header:
     - name: Teaching
 
 footer:
-  show_powered_by: False
+  show_powered_by: TRUE
   contact:
     - name: Email
       value: h.pilvar[at]qmul.ac.uk
