@@ -7,6 +7,7 @@
   
 ## 2022
   - <a href="https://knowledge4policy.ec.europa.eu/event/empirical-health-economics-workshop-2022-ehew-2022_en" target="_blank">Empirical Health Economics Workshop 2022 - EHEW 2022 </a>
+
 ## 2021
   - <a href="https://erf.org.eg/publication_cat/erf-27th-annual-conference/" target="_blank">Economic Research Forum 27th Annual Conference </a>
 
