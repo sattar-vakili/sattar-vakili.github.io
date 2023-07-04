@@ -13,12 +13,12 @@ description: In this paper, we investigate the consequences of greater workload 
 ## The Evolution of Costs of Mental Health Admissions to Paediatric Wards in England
 
 # Publications
-  - <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167629621000990" target="_blank">Changing Physicians' Incentives to Control the C-section Rate: Evidence from a Major Health Care Reform in Iran text</a> ,with Kowsar Yousefi, Journal of Health Economics, 2021
+  - <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167629621000990" target="_blank">Changing Physicians' Incentives to Control the C-section Rate: Evidence from a Major Health Care Reform in Iran text</a> ,with <a href="https://economics.ut.ac.ir/en/~kyousefi" target="_blank">Kowsar Yousefi </a>, Journal of Health Economics, 2021
     
     <i> Winner of <a href="https://www.youtube.com/watch?v=fak7X6MsY0I&t=1904s" target="_blank">27th ERF annual conference Best paper award </a> and <a href="https://healtheconomics.org/awards/" target="_blank"> IHEA 2022 student paper prize, honorable mention </a> </i>
-  - <a href="https://academic.oup.com/sp/article-abstract/29/4/1192/6458097" target="_blank">The heterogeneous effect of Covid-19 on the gender gap in Iran</a>, with Kowsar Yousefi and Salman Farajnia, Social Politics, 2021
-  - <a href="https://www.tandfonline.com/doi/abs/10.1080/00036846.2018.1558350" target="_blank">The Impact of Trade Openness on Labor Force Participation Rate</a>, with Seyed Ali Madanizadeh, Applied Economics, 2019
-  - <a href="https://www.sciencedirect.com/science/article/abs/pii/S1062976918302217" target="_blank">Import Tax Evasion and Avoidance: Evidence From Iran</a>, with Kowsar Yousefi and Mohammad Vesal, Quarterly Review of Economics and Finance, 2019
+  - <a href="https://academic.oup.com/sp/article-abstract/29/4/1192/6458097" target="_blank">The heterogeneous effect of Covid-19 on the gender gap in Iran</a>, with <a href="https://economics.ut.ac.ir/en/~kyousefi" target="_blank">Kowsar Yousefi </a> and Salman Farajnia, Social Politics, 2021
+  - <a href="https://www.tandfonline.com/doi/abs/10.1080/00036846.2018.1558350" target="_blank">The Impact of Trade Openness on Labor Force Participation Rate</a>, with <a href="https://gsme.sharif.edu/~madanizadeh/" target="_blank">Seyed Ali Madanizadeh</a>, Applied Economics, 2019
+  - <a href="https://www.sciencedirect.com/science/article/abs/pii/S1062976918302217" target="_blank">Import Tax Evasion and Avoidance: Evidence From Iran</a>, with <a href="https://economics.ut.ac.ir/en/~kyousefi" target="_blank">Kowsar Yousefi </a> and <a href="https://gsme.sharif.edu/~vesal/" target="_blank">Mohammad Vesal</a>, Quarterly Review of Economics and Finance, 2019
 
 
 
