@@ -6,10 +6,10 @@ profile_picture:
 ---
 
 <p align="justify">
-I am Hanifa Pilvar, a Ph.D. candidate at the <a href="https://www.qmul.ac.uk/sef/staff/hanifapilvar.html" target="_blank">School of Economics and Finance, Queen Mary University of London</a>. My primary research focuses on empirical microeconomics and health economics. Specifically, my work centers around understanding physician behavior and incentives, as well as the implications of physician shortages and potential strategies for mitigation. Additionally, I am actively engaged as a collaborator at The Health Foundation and serve as a research fellow at UCL, where I contribute to <a href="https://iris.ucl.ac.uk/iris/browse/researchActivity/37000" target="_blank">Mental Health Admissions to Paediatric Wards Study (MAPS)</a>.
+Sattar Vakili is a senior AI researcher at MediaTek Research, the research arm of MediaTek — the 4th largest global fabless semiconductor company. He specializes in problems involving sequential decision-making in uncertain environments, with a focus on optimization, bandit and reinforcement learning, kernel-based modeling, and neural networks. Before joining MediaTek Research, Sattar worked at Secondmind.ai, a research lab in Cambridge, UK, led by Professor Carl Rasmussen, Cambridge University. There, he gained expertise in kernel-based and Gaussian process models. Prior to that, he was a postdoc at Princeton University. Sattar earned his PhD under the supervision of Professor Qing Zhao at Cornell University in 2017 with a dissertation on sequential methods for learning and optimization.
 
 </p>
-  Here is my brief <a href="https://www.dropbox.com/scl/fi/gvmop1f8oo5q2o17pl2xd/CV.pdf?rlkey=i2nqr97ct35ib9572rld7e4ss&dl=0" target="_blank">Résumé</a>.
+ 
 
 
 
