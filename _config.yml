@@ -21,13 +21,13 @@ footer:
   show_powered_by: FALSE
   contact:
     - name: Email
-      value: h.pilvar[at]qmul.ac.uk
-      link: mailto:h.pilvar@qmul.ac.uk
+      value: sv388[at]cornell.edu
+      link: mailto:sv388@cornell.edu
   follow:
     - name: GoogleScholar
-      link: https://scholar.google.com/citations?user=L9ALJ20AAAAJ&hl=en&oi=ao
+      link: https://scholar.google.com/citations?user=N9xs8w0AAAAJ&hl=en
     - name: LinkedIn
-      link: https://www.linkedin.com/in/hanifa-pilvar-a05040278/
+      link: https://www.linkedin.com/in/sattar-vakili-221a1b63/
 
 # Build settings
 markdown: kramdown
