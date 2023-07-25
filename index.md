@@ -5,11 +5,17 @@ profile_picture:
   alt: sattar vakili
 ---
 
-<p align="justify">
-Sattar Vakili is a senior AI researcher at MediaTek Research, the research arm of MediaTek — the 4th largest global fabless semiconductor company. He specializes in problems involving sequential decision-making in uncertain environments, with a focus on optimization, bandit and reinforcement learning, kernel-based modeling, and neural networks. Before joining MediaTek Research, Sattar worked at Secondmind.ai, a research lab in Cambridge, UK, led by Professor Carl Rasmussen, Cambridge University. There, he gained expertise in kernel-based and Gaussian process models. Prior to that, he was a postdoc at Princeton University. Sattar earned his PhD under the supervision of Professor Qing Zhao at Cornell University in 2017 with a dissertation on sequential methods for learning and optimization.
-
-</p>
- 
-
-
-
+<h5>Research Interests</h5>
+<div>Machine learning and Artificial Intelligence</div>
+<div>Diffusion models</div>
+<div>
+<div>Sequential decision making, bandit and RL</div>
+<div>Kernel methods, Gaussian processes and Bayesian optimisation</div>
+</div>
+<div></div>
+<div></div>
+<h5>Hiring</h5>
+<ul>
+ 	<li>PhD in the field of machine learning (Bandit, RL, Bayesian optimisation) at UCL supported by MediaTek Research. Please feel free to email your resume if you are interested.</li>
+ 	<li>MediaTek Research is hiring AI researchers and interns to work on research oriented projects in generative models, LLMs, AI for communication, RL, Bandits, GPs, Optimization and more. Feel free to get in touch if you are interested. Our offices are located in Cambridge, London and Taipei.</li>
+</ul>
