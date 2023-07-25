@@ -13,9 +13,6 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Research
-    - name: Teaching
-    - name: Engagements
 
 footer:
   show_powered_by: FALSE
