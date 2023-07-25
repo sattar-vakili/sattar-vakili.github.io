@@ -23,8 +23,6 @@ footer:
   follow:
     - name: GoogleScholar
       link: https://scholar.google.com/citations?user=N9xs8w0AAAAJ&hl=en
-    - name: LinkedIn
-      link: https://www.linkedin.com/in/sattar-vakili-221a1b63/
 
 # Build settings
 markdown: kramdown
