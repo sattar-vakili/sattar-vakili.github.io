@@ -14,7 +14,7 @@ header:
     - name: Home
       slug: /
     - name: Selected Publications
-    - name: Short Bio
+    - name: Brief Bio
 
 footer:
   show_powered_by: FALSE
