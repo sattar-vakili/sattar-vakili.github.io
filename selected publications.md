@@ -1,3 +1,5 @@
+# Selected Publications 
+
 <ul>
  	<li><a class="gsc_a_at" href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=N9xs8w0AAAAJ&amp;sortby=pubdate&amp;citation_for_view=N9xs8w0AAAAJ:iH-uZ7U-co4C">Delayed Feedback in Kernel Bandits</a>, ICML 2023.</li>
  	<li><a class="gsc_oci_title_link" href="https://arxiv.org/abs/2206.00099" data-clk="hl=en&amp;sa=T&amp;ei=hBd2ZMqBNJaay9YP8PScyAs">Provably and Practically Efficient Neural Contextual Bandits</a>, ICML 2023.</li>
