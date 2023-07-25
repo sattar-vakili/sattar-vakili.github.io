@@ -6,14 +6,13 @@ profile_picture:
 ---
 
 # Research Interests
-<div>Machine learning and Artificial Intelligence</div>
-<div>Diffusion models</div>
-<div>
-<div>Sequential decision making, bandit and RL</div>
-<div>Kernel methods, Gaussian processes and Bayesian optimisation</div>
-</div>
-<div></div>
-<div></div>
+
+<ul>
+  <li> Machine learning and AI</li>
+  <li> Diffusion models</li>
+  <li> Sequential decision making, bandit and RL</li>
+  <li> Kernel methods, Gaussian processes and Bayesian optimisation</li>
+<ul>
 
 
 
