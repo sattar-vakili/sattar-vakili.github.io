@@ -14,6 +14,9 @@ profile_picture:
   <li> Kernel methods, Gaussian processes and Bayesian optimisation</li>
 <ul>
 
+<div><div>
+<div><div>
+
 
 
 # Hiring
