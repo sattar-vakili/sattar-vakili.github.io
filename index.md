@@ -5,7 +5,7 @@ profile_picture:
   alt: sattar vakili
 ---
 
-<h5>Research Interests</h5>
+<h3>Research Interests</h3>
 <div>Machine learning and Artificial Intelligence</div>
 <div>Diffusion models</div>
 <div>
@@ -14,7 +14,10 @@ profile_picture:
 </div>
 <div></div>
 <div></div>
-<h5>Hiring</h5>
+
+
+
+<h3>Hiring</h3>
 <ul>
  	<li>PhD in the field of machine learning (Bandit, RL, Bayesian optimisation) at UCL supported by MediaTek Research. Please feel free to email your resume if you are interested.</li>
  	<li>MediaTek Research is hiring AI researchers and interns to work on research oriented projects in generative models, LLMs, AI for communication, RL, Bandits, GPs, Optimization and more. Feel free to get in touch if you are interested. Our offices are located in Cambridge, London and Taipei.</li>
