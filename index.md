@@ -13,7 +13,7 @@ profile_picture:
   <li> Sequential decision making, bandit and RL</li>
   <li> Kernel methods, Gaussian processes and Bayesian optimisation</li>
 <ul>
-</p>
+
 <div><div>
 <div><div>
 
