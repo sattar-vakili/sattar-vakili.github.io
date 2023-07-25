@@ -13,7 +13,7 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Selected_Publications
+    - name: Selected Publications
 
 footer:
   show_powered_by: FALSE
