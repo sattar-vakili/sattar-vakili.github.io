@@ -14,8 +14,6 @@ profile_picture:
   <li> Kernel methods, Gaussian processes and Bayesian optimisation</li>
 <ul>
 
-<div><div>
-<div><div>
 
 
 <span style="color:white">Sattar Vakili</span>
@@ -23,12 +21,5 @@ profile_picture:
 <span style="color:white">Machine Learning, Bandit, Reinforcement learning, kernel methods, Google Scholar, LinkedIn, Cornell, MediaTek, MediaTek Research, Cambridge </span>
 
 
-# Selected Projects
-
-## Kernel-based Reinforcement Learning 
-
-<img src="/assets/img/RL_img.png"
-     alt="Image"
-     style="float: left; margin-right: 10px;" />
 
 
