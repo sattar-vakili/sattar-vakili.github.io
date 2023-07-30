@@ -1,14 +1,14 @@
 # Selectef Publications 
 
 <ul>
- <li><a href="https://arxiv.org/abs/2306.07745" target="_blank" rel="noopener">Kernelized Reinforcement Learning with Order Optimal Regret Bounds</a>, EWRL 2023</li>
- 	<li><a class="gsc_a_at" href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=N9xs8w0AAAAJ&amp;sortby=pubdate&amp;citation_for_view=N9xs8w0AAAAJ:iH-uZ7U-co4C">Delayed Feedback in Kernel Bandits</a>, ICML 2023.</li>
- 	<li><a class="gsc_oci_title_link" href="https://arxiv.org/abs/2206.00099" data-clk="hl=en&amp;sa=T&amp;ei=hBd2ZMqBNJaay9YP8PScyAs">Provably and Practically Efficient Neural Contextual Bandits</a>, ICML 2023.</li>
- 	<li><a href="https://arxiv.org/abs/2306.00501">Image generation with shortest path diffusion</a>, ICML 2023.</li>
- 	<li><a href="https://arxiv.org/abs/2302.00727">Sample Complexity of Kernel-Based Q-Learning</a>, AISTATS 2023</li>
- 	<li><a href="https://sites.coecis.cornell.edu/sattarvakili/files/2023/03/FishLeg.pdf">Fisher-Legendre (FishLeg) optimization of deep neural networks</a>, ICLR 2023</li>
- 	<li><a href="https://arxiv.org/abs/2109.06099">Uniform generalization bounds for overparameterized neural networks</a>, ISIT 2023</li>
- 	<li><a href="https://arxiv.org/abs/2206.00121">Near-Optimal Collaborative Learning in Bandits</a>, NeurIPS 2022</li>
+  <li><a href="https://arxiv.org/abs/2306.07745" target="_blank" rel="noopener">Kernelized Reinforcement Learning with Order Optimal Regret Bounds</a>, EWRL 2023</li>
+  <li><a href="https://arxiv.org/abs/2302.00392" target="_blank" rel="noopener">Delayed Feedback in Kernel Bandits</a>, ICML 2023</li>
+  <li><a href="https://arxiv.org/abs/2206.00099" target="_blank" rel="noopener">Provably and Practically Efficient Neural Contextual Bandits</a>, ICML 2023</li>
+ 	<li><a href="https://arxiv.org/abs/2306.00501" target="_blank" rel="noopener">Image generation with shortest path diffusion</a>, ICML 2023.</li>
+ 	<li><a href="https://arxiv.org/abs/2302.00727" target="_blank" rel="noopener">Sample Complexity of Kernel-Based Q-Learning</a>, AISTATS 2023</li>
+ 	<li><a href="https://openreview.net/forum?id=c9lAOPvQHS" target="_blank" rel="noopener">Fisher-Legendre (FishLeg) optimization of deep neural networks</a>, ICLR 2023</li>
+ 	<li><a href="https://arxiv.org/abs/2109.06099" target="_blank" rel="noopener">Uniform generalization bounds for overparameterized neural networks</a>, ISIT 2023</li>
+ 	<li><a href="https://arxiv.org/abs/2206.00121" target="_blank" rel="noopener">Near-Optimal Collaborative Learning in Bandits</a>, NeurIPS 2022</li>
  	<li><a href="https://proceedings.mlr.press/v162/vakili22a.html" target="_blank" rel="noopener">Improved convergence rates for sparse approximation methods in kernel-based learning</a>, ICML 2022</li>
  	<li><a href="https://proceedings.mlr.press/v130/vakili21a.html" target="_blank" rel="noopener">On Information Gain and Regret Bounds in GP Bandits</a>, AISTATS 2021, <a href="https://sites.coecis.cornell.edu/sattarvakili/files/2022/02/Paper1_short_presentation_AISTATS2021_Sattar.pdf" target="_blank" rel="noopener">[slides]</a>, <a href="https://slideslive.com/38952928" target="_blank" rel="noopener">[presentation]</a></li>
  	<li><a href="https://proceedings.neurips.cc/paper/2021/hash/b1300291698eadedb559786c809cc592-Abstract.html" target="_blank" rel="noopener">Optimal order simple regret for GP bandits</a>, NeurIPS 2021, <a href="https://sites.coecis.cornell.edu/sattarvakili/files/2022/02/Paper2_slides_Neurips2021_Sattar.pdf" target="_blank" rel="noopener">[slides]</a>, <a href="https://nips.cc/virtual/2021/poster/27371" target="_blank" rel="noopener">[presentation]</a></li>
