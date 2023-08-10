@@ -1,0 +1,35 @@
+<h5>Latest</h5>
+<ul>
+ 	<li> **June 2023**  Giving a <a href="https://ucl-ellis.github.io/dm_csml_seminars/2023-06-23-Vakili/" target="_blank" rel="noopener"> seminar on <a href="https://arxiv.org/pdf/2306.07745.pdf" target="_blank" rel="noopener">kernel-based reinforcement learning at Deepmind/Ellis CSML seminar series.</li>
+ 	<li>Presenting ''Information Gain and Uniform Generalization Bounds for Neural Kernel Models'' at <strong>ISIT 2023 </strong>(25-30 June, Taipei).</li>
+ 	<li>Giving an invited talk on kernel-based RL at the <a href="https://www.ucl.ac.uk/ai-centre/lsit-2023-seventh-london-symposium-information-theory">London Symposium on Information Theorey</a> (May 25th).</li>
+ 	<li>"<a class="gsc_a_at" href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=N9xs8w0AAAAJ&amp;sortby=pubdate&amp;citation_for_view=N9xs8w0AAAAJ:iH-uZ7U-co4C">Delayed Feedback in Kernel Bandits</a>" is accepted at <strong>ICML 2023</strong>.</li>
+ 	<li>"<a class="gsc_oci_title_link" href="https://arxiv.org/abs/2206.00099" data-clk="hl=en&amp;sa=T&amp;ei=hBd2ZMqBNJaay9YP8PScyAs">Provably and Practically Efficient Neural Contextual Bandits</a>" is accepted at <strong>ICML 2023</strong>.</li>
+ 	<li>"<a href="https://arxiv.org/abs/2306.00501">Image generation with shortest path diffusion</a>" is accepted at <strong>ICML 2023</strong>.</li>
+ 	<li>"<a href="https://arxiv.org/abs/2302.00727">Sample Complexity of Kernel-Based Q-Learning</a>" is accepted at <strong>AISTATS 2023.</strong></li>
+ 	<li>"<a href="https://openreview.net/forum?id=c9lAOPvQHS">Fisher-Legendre (FishLeg) optimization of deep neural networks</a>" is accepted at <strong>ICLR 2023.</strong></li>
+ 	<li>"<a href="https://arxiv.org/abs/2302.00392">Delayed Feedback in Kernel Bandits</a>" is available on arXiv.</li>
+ 	<li>"<a href="https://arxiv.org/abs/2206.00099">Provably and Practically Efficient Neural Contextual Bandits</a>" is available on arXiv.</li>
+ 	<li>"<a href="https://openreview.net/forum?id=2xfJ26BuFP">Near-Optimal Collaborative Learning in Bandits</a>" is accepted at <strong>NeurIPS 2022.</strong></li>
+ 	<li>Presetnting "<a href="https://opt-ml.org/papers/2022/paper26.pdf">Gradient Desent: Robustness to Adversarial Curroption</a>" at OPT2022 workshop, <strong>NeurIPS 2022 </strong>(3 Dec, New Orleans)</li>
+ 	<li>Presenting an <a href="https://arxiv.org/abs/2002.05096">open problem</a> on noise-free kernel-based bandit at <strong>COLT 2022</strong> (2-5 July, London)</li>
+ 	<li>"<a href="https://arxiv.org/abs/2206.00121">Near-Optimal Collaborative Learning in Bandits</a>" is available on arXiv.</li>
+ 	<li>"<a href="https://proceedings.mlr.press/v162/vakili22a.html" target="_blank" rel="noopener">Improved Convergence Rates for Sparse Approximation Methods in Kernel-Based Learning</a>" is accepted to be presented at <strong>ICML 2022</strong> (17-23 July)</li>
+ 	<li>Our papers accepted at <strong>Neurips 2021</strong>:
+<ul>
+ 	<li>"<a href="https://papers.nips.cc/paper/2021/hash/2c7f9ccb5a39073e24babc3a4cb45e60-Abstract.html" target="_blank" rel="noopener">Scalable Thompson Sampling using Sparse Gaussian Process Models</a>"</li>
+ 	<li>"<a href="https://papers.nips.cc/paper/2021/hash/f19fec2f129fbdba76493451275c883a-Abstract.html" target="_blank" rel="noopener">A Domain-Shrinking based Bayesian Optimization Algorithm with Order-Optimal Regret Performance</a>"</li>
+ 	<li>"<a href="https://papers.nips.cc/paper/2021/hash/b1300291698eadedb559786c809cc592-Abstract.html" target="_blank" rel="noopener">Optimal Order Simple Regret for Gaussian Process Bandits</a>"</li>
+</ul>
+</li>
+ 	<li>I will be moderating the "Bandits, RL and Control" session at COLT 2021.</li>
+ 	<li>Check out our open problem at <strong>COLT 2021</strong>: "<a href="https://proceedings.mlr.press/v134/open-problem-vakili21a.html">Tight Online Confidence Intervals for RKHS Elements</a>"</li>
+ 	<li>Neural tangent kernel is similar to Matérn: "<a href="https://arxiv.org/abs/2109.06099">Uniform Generalization Bounds for Overparameterized Neural Networks</a>"</li>
+ 	<li>"<span class=" aw5Odc"><a class="XqQF9c" href="https://proceedings.mlr.press/v130/vakili21a.html" target="_blank" rel="noopener">On Information Gain and Regret Bounds in Gaussian Process Bandits</a></span>" is accepted to be presented at <span class=" aw5Odc"><strong>AIStats 2021</strong></span> (13-15 April).</li>
+ 	<li>"<span class=" aw5Odc"><a class="XqQF9c" href="https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F2010.13997&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGTvFtQu4jbyxZryqKZrky1NffA7g" target="_blank" rel="noopener">A Computationally Efficient Approach to Black-box Optimization using Gaussian Process Models</a></span>" is available on ArXiv.</li>
+ 	<li>"<span class=" aw5Odc"><a class="XqQF9c" href="https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F2009.06966&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFc7thWQFmDnjam6-lyl34T2WtDQw" target="_blank" rel="noopener">On Information Gain and Regret Bounds in Gaussian Process Bandits</a></span>" is available on ArXiv.</li>
+ 	<li>"<span class=" aw5Odc"><a class="XqQF9c" href="https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F2006.05356&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGNYrIe6sSJa1zTZ6TNWzEaqkaxeg" target="_blank" rel="noopener">Scalable Thompson Sampling using Sparse Gaussian Process Models</a></span>" is available on ArXiv.</li>
+ 	<li>"<span class=" aw5Odc"><a class="XqQF9c" href="https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F2003.05482&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGkpYG6-nNLpIgwYioy2FNRwLmAag" target="_blank" rel="noopener">Stochastic Coordinate Minimization with Progressive Precision for Stochastic Convex Optimization</a></span>" is accepted to be presented at <span class=" aw5Odc"><em><strong>ICML 2020</strong></em> </span>(12-18 July).</li>
+ 	<li>"<span class=" aw5Odc"><a class="XqQF9c" href="https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F2003.04125&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHYQ3FOq2EI_TH8GMOQ7zg1Kq05Xw" target="_blank" rel="noopener">Amortized variance reduction for doubly stochastic objectives</a></span>" is accepted to be presented at <span class=" aw5Odc"><em><strong>UAI 2020</strong></em></span> (4-6 August).</li>
+ 	<li><span class=" aw5Odc"><a class="XqQF9c" href="https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F1802.04339&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGYG8nd10HHLPRTmLSkQteuwQYpFg" target="_blank" rel="noopener">"</a></span><span class=" aw5Odc"><a class="XqQF9c" href="https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F1802.04339&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGYG8nd10HHLPRTmLSkQteuwQYpFg" target="_blank" rel="noopener">Multi-Armed Bandits on Unit Interval Graphs</a></span><span class=" aw5Odc"><a class="XqQF9c" href="https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F1802.04339&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGYG8nd10HHLPRTmLSkQteuwQYpFg" target="_blank" rel="noopener">"</a></span> is accepted to be published in <strong><span class=" aw5Odc">IEEE transaction on Network Science and Engineering (2020)</span></strong>.</li>
+</ul>
