@@ -1,6 +1,6 @@
-<h5>Latest</h5>
+<h4>Latest</h4>
 <ul>
- 	<li> **June 2023**  Giving a <a href="https://ucl-ellis.github.io/dm_csml_seminars/2023-06-23-Vakili/" target="_blank" rel="noopener"> seminar on <a href="https://arxiv.org/pdf/2306.07745.pdf" target="_blank" rel="noopener">kernel-based reinforcement learning at Deepmind/Ellis CSML seminar series.</li>
+ 	<li><strong>June 2023:</strong> Giving a <a href="https://ucl-ellis.github.io/dm_csml_seminars/2023-06-23-Vakili/" target="_blank" rel="noopener">seminar</a> on <a href="https://arxiv.org/pdf/2306.07745.pdf">kernel-based reinforcement learning</a> at Deepmind/Ellis CSML seminar series.</li>
  	<li>Presenting ''Information Gain and Uniform Generalization Bounds for Neural Kernel Models'' at <strong>ISIT 2023 </strong>(25-30 June, Taipei).</li>
  	<li>Giving an invited talk on kernel-based RL at the <a href="https://www.ucl.ac.uk/ai-centre/lsit-2023-seventh-london-symposium-information-theory">London Symposium on Information Theorey</a> (May 25th).</li>
  	<li>"<a class="gsc_a_at" href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=N9xs8w0AAAAJ&amp;sortby=pubdate&amp;citation_for_view=N9xs8w0AAAAJ:iH-uZ7U-co4C">Delayed Feedback in Kernel Bandits</a>" is accepted at <strong>ICML 2023</strong>.</li>
