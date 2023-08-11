@@ -14,8 +14,8 @@ header:
     - name: Home
       slug: /
     - name: Publications
+    - name: Projects
     - name: Brief Bio
-    - name: Latest
 
 footer:
   show_powered_by: FALSE
