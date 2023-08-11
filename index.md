@@ -4,22 +4,16 @@ profile_picture:
   src: /assets/img/profile_pic_sattar.jpg
   alt: sattar vakili
 ---
-<h2>Senior AI Researcher at <a href="https://i.mediatek.com/mediatekresearch" target="_blank" rel="noopener">MediaTek Research</a></h2>
+<h3>Senior AI Researcher at <a href="https://i.mediatek.com/mediatekresearch" target="_blank" rel="noopener">MediaTek Research</a></h3>
 
 <span style="color:white">Sattar Vakili</span>
 
-<h2>sv388 [AT] cornell [DOT] edu</h2>
+<h4>sv388 [AT] cornell [DOT] edu</h4>
 
 <span style="color:white">Sattar Vakili</span>
 
 
 
-
-
-
-
-<span style="color:white">Sattar Vakili</span>
-<span style="color:white">Machine Learning, Bandit, Reinforcement learning, kernel methods, Google Scholar, LinkedIn, Cornell, MediaTek, MediaTek Research, Cambridge </span>
 <span style="color:white">Sattar Vakili</span>
 <span style="color:white">Machine Learning, Bandit, Reinforcement learning, kernel methods, Google Scholar, LinkedIn, Cornell, MediaTek, MediaTek Research, Cambridge </span>
 <span style="color:white">Sattar Vakili</span>
