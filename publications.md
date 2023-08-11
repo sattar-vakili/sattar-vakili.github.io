@@ -8,6 +8,7 @@
  	<li><a href="https://arxiv.org/abs/2302.00727" target="_blank" rel="noopener">Sample Complexity of Kernel-Based Q-Learning</a>, AISTATS 2023</li>
  	<li><a href="https://openreview.net/forum?id=c9lAOPvQHS" target="_blank" rel="noopener">Fisher-Legendre (FishLeg) optimization of deep neural networks</a>, ICLR 2023</li>
  	<li><a href="https://arxiv.org/abs/2109.06099" target="_blank" rel="noopener">Uniform generalization bounds for overparameterized neural networks</a>, ISIT 2023</li>
+  <li><a href="https://arxiv.org/abs/2308.05583" target="_blank" rel="noopener">Generative Diffusion Models for Radio Wireless Channel Modelling and Sampling</a>, GLOBECOM 2023</li>
  	<li><a href="https://arxiv.org/abs/2206.00121" target="_blank" rel="noopener">Near-Optimal Collaborative Learning in Bandits</a>, NeurIPS 2022</li>
  	<li><a href="https://proceedings.mlr.press/v162/vakili22a.html" target="_blank" rel="noopener">Improved convergence rates for sparse approximation methods in kernel-based learning</a>, ICML 2022</li>
  	<li><a href="https://proceedings.mlr.press/v130/vakili21a.html" target="_blank" rel="noopener">On Information Gain and Regret Bounds in GP Bandits</a>, AISTATS 2021, <a href="https://sites.coecis.cornell.edu/sattarvakili/files/2022/02/Paper1_short_presentation_AISTATS2021_Sattar.pdf" target="_blank" rel="noopener">[slides]</a>, <a href="https://slideslive.com/38952928" target="_blank" rel="noopener">[presentation]</a></li>
