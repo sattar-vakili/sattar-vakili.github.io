@@ -15,7 +15,7 @@ header:
       slug: /
     - name: Publications
     - name: Projects
-    - name: Brief Bio
+    - name: CV
 
 footer:
   show_powered_by: FALSE
