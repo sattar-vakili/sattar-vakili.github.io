@@ -14,7 +14,7 @@ profile_picture:
 
 
 
-<span style="color:white">Sattar Vakili</span>
+
 <span style="color:white">Machine Learning, Bandit, Reinforcement learning, kernel methods, Google Scholar, LinkedIn, Cornell, MediaTek, MediaTek Research, Cambridge </span>
 <span style="color:white">Sattar Vakili</span>
 <span style="color:white">Machine Learning, Bandit, Reinforcement learning, kernel methods, Google Scholar, LinkedIn, Cornell, MediaTek, MediaTek Research, Cambridge </span>
