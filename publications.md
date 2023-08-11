@@ -1,4 +1,4 @@
-# Selectef Publications 
+# Selected Publications 
 
 <ul>
   <li><a href="https://arxiv.org/abs/2306.07745" target="_blank" rel="noopener">Kernelized Reinforcement Learning with Order Optimal Regret Bounds</a>, EWRL 2023</li>
