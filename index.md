@@ -5,6 +5,8 @@ profile_picture:
   alt: sattar vakili
 ---
 
+# Senior AI Researcher at <a href="https://i.mediatek.com/mediatekresearch" target="_blank" rel="noopener"> MediaTek Research </a>
+
 # Research Interests
 
 <ul>
@@ -21,24 +23,32 @@ profile_picture:
 <span style="color:white">Machine Learning, Bandit, Reinforcement learning, kernel methods, Google Scholar, LinkedIn, Cornell, MediaTek, MediaTek Research, Cambridge </span>
 
 
-# Selected Projects
+# Latest
+<ul>
+ 	<li><strong>August 2023: </strong><a href="https://arxiv.org/abs/2306.07745" target="_blank" rel="noopener">Kernelized Reinforcement Learning with Order Optimal Regret Bounds</a> is accepted at <a href="https://ewrl.wordpress.com/ewrl16-2023/" target="_blank" rel="noopener">EWRL 2023</a>.</li>
+ 	<li><strong>July 2023:</strong> Giving an <a href="https://www.youtube.com/watch?v=lHqe8oa2VWU&amp;ab_channel=HadiAmini" target="_blank" rel="noopener">online lecture</a> at FeDucation seminar series (Felorida International University).</li>
+ 	<li><strong>June 2023:</strong> Giving a <a href="https://ucl-ellis.github.io/dm_csml_seminars/2023-06-23-Vakili/" target="_blank" rel="noopener">seminar</a> on <a href="https://arxiv.org/pdf/2306.07745.pdf">kernel-based reinforcement learning</a> at Deepmind/Ellis CSML seminar series.</li>
+ 	<li><strong>June 2023:</strong> Presenting <a href="https://arxiv.org/abs/2109.06099" target="_blank" rel="noopener">Information Gain and Uniform Generalization Bounds for Neural Kernel Models</a> at ISIT 2023 , Taipei.</li>
+ 	<li><strong>May 2023:</strong> Giving an invited talk on kernel-based RL at the <a href="https://www.ucl.ac.uk/ai-centre/lsit-2023-seventh-london-symposium-information-theory">London Symposium on Information Theorey</a></li>
+ 	<li><strong>April 2023:</strong> "<a class="gsc_a_at" href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=N9xs8w0AAAAJ&amp;sortby=pubdate&amp;citation_for_view=N9xs8w0AAAAJ:iH-uZ7U-co4C" target="_blank" rel="noopener">Delayed Feedback in Kernel Bandits</a>" is accepted at <strong>ICML 2023</strong>.</li>
+ 	<li><strong>April 2023: </strong>"<a class="gsc_oci_title_link" href="https://arxiv.org/abs/2206.00099" target="_blank" rel="noopener" data-clk="hl=en&amp;sa=T&amp;ei=hBd2ZMqBNJaay9YP8PScyAs">Provably and Practically Efficient Neural Contextual Bandits</a>" is accepted at <strong>ICML 2023</strong>.</li>
+ 	<li><strong>April 2023: </strong>"<a href="https://arxiv.org/abs/2306.00501" target="_blank" rel="noopener">Image generation with shortest path diffusion</a>" is accepted at <strong>ICML 2023</strong>.</li>
+ 	<li><strong>Feburary 2023: </strong>"<a href="https://arxiv.org/abs/2302.00392" target="_blank" rel="noopener">Delayed Feedback in Kernel Bandits</a>" is available on arXiv.</li>
+ 	<li><strong>January 2023: </strong>"<a href="https://arxiv.org/abs/2302.00727" target="_blank" rel="noopener">Sample Complexity of Kernel-Based Q-Learning</a>" is accepted at <strong>AISTATS 2023.</strong></li>
+ 	<li><strong>January 2023: </strong>"<a href="https://openreview.net/forum?id=c9lAOPvQHS" target="_blank" rel="noopener">Fisher-Legendre (FishLeg) optimization of deep neural networks</a>" is accepted at <strong>ICLR 2023.</strong></li>
+ 	<li><strong>December 2022: </strong>Presetnting "<a href="https://opt-ml.org/papers/2022/paper26.pdf" target="_blank" rel="noopener">Gradient Desent: Robustness to Adversarial Curroption</a>" at OPT2022 workshop at <strong>NeurIPS 2022</strong>, New Orleans.</li>
+ 	<li><strong>October 2022:</strong> "<a href="https://openreview.net/forum?id=2xfJ26BuFP" target="_blank" rel="noopener">Near-Optimal Collaborative Learning in Bandits</a>" has been designated as an <span class="il"><strong>Oral</strong> presentation</span>  at <strong>NeurIPS 2022. </strong></li>
+ 	<li><strong>July 2022:</strong> Presenting an <a href="https://arxiv.org/abs/2002.05096" target="_blank" rel="noopener">open problem</a> on noise-free kernel-based bandit at <strong>COLT 2022</strong>, London.</li>
+ 	<li><strong>May 2022: </strong>"<a href="https://arxiv.org/abs/2206.00099" target="_blank" rel="noopener">Provably and Practically Efficient Neural Contextual Bandits</a>" is available on arXiv.</li>
+ 	<li><strong>May 2022: </strong>"<a href="https://arxiv.org/abs/2206.00121" target="_blank" rel="noopener">Near-Optimal Collaborative Learning in Bandits</a>" is available on arXiv.</li>
+ 	<li><strong>May 2022: </strong>"<a href="https://proceedings.mlr.press/v162/vakili22a.html" target="_blank" rel="noopener">Improved Convergence Rates for Sparse Approximation Methods in Kernel-Based Learning</a>" is accepted at <strong>ICML 2022 </strong>for a<strong> Spotlight </strong>presentation.</li>
+ 	<li><strong>October 2021:  </strong>"<a href="https://papers.nips.cc/paper/2021/hash/2c7f9ccb5a39073e24babc3a4cb45e60-Abstract.html" target="_blank" rel="noopener">Scalable Thompson Sampling using Sparse Gaussian Process Models</a>" is accepted at <strong>NeurIPS 2021.</strong></li>
+ 	<li><strong>October 2021:  </strong>"<a href="https://papers.nips.cc/paper/2021/hash/f19fec2f129fbdba76493451275c883a-Abstract.html" target="_blank" rel="noopener">A Domain-Shrinking based Bayesian Optimization Algorithm with Order-Optimal Regret Performance</a>" is accepted at <strong>NeurIPS 2021.</strong></li>
+ 	<li><strong>October 2021:  </strong>"<a href="https://papers.nips.cc/paper/2021/hash/b1300291698eadedb559786c809cc592-Abstract.html" target="_blank" rel="noopener">Optimal Order Simple Regret for Gaussian Process Bandits</a>" is accepted at <strong>NeurIPS 2021.</strong></li>
+ 	<li><strong>August 2021: </strong>Moderating the "Bandits, RL and Control" session at <strong>COLT 2021</strong>.</li>
+ 	<li><strong>August 2021: </strong>Presenting "<a href="https://proceedings.mlr.press/v134/open-problem-vakili21a.html">Tight Online Confidence Intervals for RKHS Elements</a>" at <strong>COLT 2021</strong>.</li>
+ 	<li><strong>January 2021: </strong>"<span class=" aw5Odc"><a class="XqQF9c" href="https://proceedings.mlr.press/v130/vakili21a.html" target="_blank" rel="noopener">On Information Gain and Regret Bounds in Gaussian Process Bandits</a></span>" is accepted to be presented at <span class=" aw5Odc"><strong>AIStats 2021</strong></span>.</li>
+</ul>
 
-## Kernel-based RL
-
-<img src="{{ "/assets/img/RL_img.png" | absolute_url }}" alt="{{ Image }}"  style="width:250px;height:250px;" />
-
-Reinforcement Learning (RL) has shown great empirical success in various settings with complex models and large state-action spaces. However, the existing analytical results typically focus on settings with a small number of state-actions or simple models, such as linearly modeled state-action value functions. To derive RL policies that efficiently handle large state-action spaces with more general value functions, some recent works have explored nonlinear function approximation using kernel ridge regression. In this <a href="https://arxiv.org/abs/2306.07745" target="_blank" rel="noopener"> paper </a>, we introduce a kernel based optimistic least-squares value iteration policy that achieves order optimal regret bounds for a common class of kernels. Our results show a significant improvement over the state of the art.
 
 
-## Shortest Path Diffusion
-
-<img src="{{ "/assets/img/SPD.png" | absolute_url }}" alt="{{ Image }}"  style="width:250px;height:250px;" />
-
-Denosing diffusion models have shown significant advancements in image generation. We introduce a novel approach where images are perturbed with noise along the shortest path from the distribution of images to the distribution of noise. We propose the Fisher metric for the path length, measured in the space of probability distributions. Referred to as Shortest Path Diffusion (SPD), this approach uniquely determines the complete spatiotemporal structure of the corruption process. We demonstrate that SPD surpasses strong baseline methods without requiring any hyperparameter tuning. 
-
-
-## Convergence rate of Nyström method (or SVGP)
-
-<img src="{{ "/assets/img/gp_regression_plot.png" | absolute_url }}" alt="{{ Image }}"  style="width:250px;height:250px;" />
-
-Kernel ridge regression and Gaussian processes are widely utilized in machine learning for regression and optimization tasks. However, they often come with high computational demands. While existing sparse approximation methods have effectively cut down these costs, there are still substantial gaps in the analytical bounds on the error due to approximation. In this research project at MediaTek Research, in collaboration with Jonathan Scarlett at the National University of Singapore, we bridged this gap by introducing novel confidence intervals for the Nyström method and the sparse variational Gaussian process (SVGP) approximation method. These intervals are established through new interpretations of the approximate (surrogate) posterior variance of the models. The result is improved performance bounds in both regression and Bayesian optimization problems, providing a more robust and efficient approach to machine learning applications. Our <a href="https://proceedings.mlr.press/v162/vakili22a.html" target="_blank" rel="noopener"> work </a> was accepted at ICML 2022 as a Spotlight presentation. 
