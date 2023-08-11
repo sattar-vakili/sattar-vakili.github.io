@@ -9,8 +9,6 @@ profile_picture:
 
 <span style="color:white">Sattar Vakili</span>
 
-<span style="color:white">Machine Learning, Bandit, Reinforcement learning, kernel methods, Google Scholar, LinkedIn, Cornell, MediaTek, MediaTek Research, Cambridge </span>
-
 
 # Research Interests
 
@@ -21,7 +19,7 @@ profile_picture:
   <li> Kernel methods, Gaussian processes and Bayesian optimisation</li>
 </ul>
 
-
+<span style="color:white">Machine Learning, Bandit, Reinforcement learning, kernel methods, Google Scholar, LinkedIn, Cornell, MediaTek, MediaTek Research, Cambridge </span>
 
 
 
