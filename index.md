@@ -6,11 +6,11 @@ profile_picture:
 ---
 <h3>Senior AI Researcher at <a href="https://i.mediatek.com/mediatekresearch" target="_blank" rel="noopener">MediaTek Research</a></h3>
 
-<span style="color:white">Sattar Vakili</span>
+
 
 <h4>sv388 [AT] cornell [DOT] edu</h4>
 
-<span style="color:white">Sattar Vakili</span>
+
 
 
 
