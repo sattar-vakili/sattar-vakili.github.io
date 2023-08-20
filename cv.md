@@ -27,7 +27,7 @@ Sattar Vakili is a senior AI researcher at MediaTek Research, the research arm o
 
 &nbsp;
 
-<h3> Download a short resume [<a href="https://github.com/sattar-vakili/sattar-vakili.github.io/blob/master/assets/CV_Sattar_Vakili_web.pdf" target="_blank" rel="noopener">here</a>].</h3>
+<h3> Download a short resume [<a href="assets/CV_Sattar_Vakili_web.pdf" target="_blank" rel="noopener">here</a>].</h3>
 
 
 
