@@ -4,7 +4,7 @@
 
 <img src="{{ "/assets/img/glob2.png" | absolute_url }}" alt="{{ Image }}"  style="width:250px;height:80px;" />
 
-Reinforcement Learning (RL) has shown great empirical success in various settings with complex models and large state-action spaces. However, the existing analytical results typically focus on settings with a small number of state-actions or simple models, such as linearly modeled state-action value functions. To derive RL policies that efficiently handle large state-action spaces with more general value functions, some recent works have explored nonlinear function approximation using kernel ridge regression. In this <a href="https://arxiv.org/abs/2306.07745" target="_blank" rel="noopener"> paper </a>, we introduce a kernel based optimistic least-squares value iteration policy that achieves order optimal regret bounds for a common class of kernels. Our results show a significant improvement over the state of the art.
+We have introduced a new approach to wireless channel modelling and sampleing using gnerative diffusion models. Compared to the existing GAN-based approaches, the diffusion model offers stable training and generates diverse ad high fedility samples from true channel distribution. Our work alos demonstrates the dfeasibilty of transfer learning, showcasing the potential of our approach to mpdel real-world channels using limited data. 
 
 
 ## Kernel-based RL
