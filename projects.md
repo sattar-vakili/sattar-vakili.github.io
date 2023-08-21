@@ -2,7 +2,7 @@
 
 ## Wireless Channel Modelling
 
-<img src="{{ "/assets/img/glob1.png" | absolute_url }}" alt="{{ Image }}"  style="width:250px;height:250px;" />
+<img src="{{ "/assets/img/glob2.png" | absolute_url }}" alt="{{ Image }}"  style="width:250px;height:80px;" />
 
 Reinforcement Learning (RL) has shown great empirical success in various settings with complex models and large state-action spaces. However, the existing analytical results typically focus on settings with a small number of state-actions or simple models, such as linearly modeled state-action value functions. To derive RL policies that efficiently handle large state-action spaces with more general value functions, some recent works have explored nonlinear function approximation using kernel ridge regression. In this <a href="https://arxiv.org/abs/2306.07745" target="_blank" rel="noopener"> paper </a>, we introduce a kernel based optimistic least-squares value iteration policy that achieves order optimal regret bounds for a common class of kernels. Our results show a significant improvement over the state of the art.
 
