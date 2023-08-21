@@ -23,6 +23,6 @@ Kernel ridge regression and Gaussian processes are widely utilized in machine le
 
 ## Wireless channel modelling
 
-<img src="{{ "/assets/img/glob2.png" | absolute_url }}" alt="{{ Image }}"  style="width:250px;height:80px;" />
+<img src="{{ "/assets/img/glob3.png" | absolute_url }}" alt="{{ Image }}"  style="width:300px;height:165px;" />
 
 We have introduced a new approach to wireless channel modeling and sampling using generative diffusion models. Compared to the existing GAN-based approaches, the diffusion model offers stable training and generates diverse and high-fidelity samples from the true channel distribution. <a href="https://arxiv.org/abs/2308.05583" target="_blank" rel="noopener"> Our work </a> also demonstrates the feasibility of transfer learning, showcasing the potential of our approach to model real-world channels using limited data.
