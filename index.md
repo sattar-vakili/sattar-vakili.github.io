@@ -39,6 +39,7 @@ profile_picture:
 
 # Latest
 <ul>
+  <li><strong>September 2023: </strong><a href="https://arxiv.org/abs/2306.07745" target="_blank" rel="noopener">Kernelized Reinforcement Learning with Order Optimal Regret Bounds</a> is accepted at <strong>NeurIPS 2023</strong>.</li>
   <li><strong>August 2023: </strong><a href="https://arxiv.org/abs/2308.05583" target="_blank" rel="noopener">Generative Diffusion Models for Radio Wireless Channel Modelling and Sampling</a> is accepted at <a href="https://globecom2023.ieee-globecom.org/" target="_blank" rel="noopener">GLOBECOM 2023</a>.</li>
  	<li><strong>August 2023: </strong><a href="https://arxiv.org/abs/2306.07745" target="_blank" rel="noopener">Kernelized Reinforcement Learning with Order Optimal Regret Bounds</a> is accepted at <a href="https://ewrl.wordpress.com/ewrl16-2023/" target="_blank" rel="noopener">EWRL 2023</a>.</li>
  	<li><strong>July 2023:</strong> Giving an <a href="https://www.youtube.com/watch?v=lHqe8oa2VWU&amp;ab_channel=HadiAmini" target="_blank" rel="noopener">online lecture</a> at FeDucation seminar series (Felorida International University).</li>
