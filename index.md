@@ -35,10 +35,11 @@ profile_picture:
 <span style="color:white">Machine Learning, Bandit, Reinforcement learning, kernel methods, Google Scholar, LinkedIn, Cornell, MediaTek, MediaTek Research, Cambridge </span>
 
 
-
+ Giving a talk at the Inria Scool seminar series at University of Lille
 
 # Latest
 <ul>
+  <li><strong>October 2023: </strong> Giving a talk at the Inria Scool seminar series at University of Lille.</li>
   <li><strong>October 2023: </strong>"<a href="https://arxiv.org/abs/2310.01609" target="_blank" rel="noopener">Adversarial Contextual Bandits Go Kernelized</a>" is available on arXiv.</li>
   <li><strong>September 2023: </strong><a href="https://arxiv.org/abs/2306.07745" target="_blank" rel="noopener">Kernelized Reinforcement Learning with Order Optimal Regret Bounds</a> is accepted at <strong>NeurIPS 2023</strong>.</li>
   <li><strong>August 2023: </strong><a href="https://arxiv.org/abs/2308.05583" target="_blank" rel="noopener">Generative Diffusion Models for Radio Wireless Channel Modelling and Sampling</a> is accepted at <a href="https://globecom2023.ieee-globecom.org/" target="_blank" rel="noopener">GLOBECOM 2023</a>.</li>
