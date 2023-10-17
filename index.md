@@ -26,16 +26,14 @@ profile_picture:
 # Research Interests
 
 <ul>
-  <li> Machine learning and AI</li>
-  <li> Diffusion models</li>
+  <li> Machine learning and artificial intelligence</li>
   <li> Sequential decision making, bandit and RL</li>
   <li> Kernel methods, Gaussian processes and Bayesian optimisation</li>
+  <li> Diffusion models</li>
 </ul>
 
 <span style="color:white">Machine Learning, Bandit, Reinforcement learning, kernel methods, Google Scholar, LinkedIn, Cornell, MediaTek, MediaTek Research, Cambridge </span>
 
-
- Giving a talk at the Inria Scool seminar series at University of Lille
 
 # Latest
 <ul>
