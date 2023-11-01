@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile_pic_sattar.png
+  src: /assets/img/profile_pic_sattar.jpg
   alt: sattar vakili
 ---
 
