@@ -4,7 +4,7 @@ profile_picture:
   src: /assets/img/profile-pic.jpg
   alt: sattar vakili
 ---
-<h3><strong>Senior AI Researcher at <a href="https://i.mediatek.com/mediatekresearch" target="_blank" rel="noopener">MediaTek Research</a></strong>strong></h3>
+<h3><strong>Senior AI Researcher at <a href="https://i.mediatek.com/mediatekresearch" target="_blank" rel="noopener">MediaTek Research</a></strong></h3>
 
 
 
