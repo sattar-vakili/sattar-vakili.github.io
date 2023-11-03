@@ -15,9 +15,6 @@ profile_picture:
 
 
 
-<span style="color:white">Machine Learning, Bandit, Reinforcement learning</span>
-
-
 
 
 
