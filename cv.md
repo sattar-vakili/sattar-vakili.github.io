@@ -15,7 +15,7 @@ Sattar Vakili is a senior AI researcher at MediaTek Research, the research arm o
 <h2>Research Experience</h2>
 <ul>
  	<li>2020 - : Senior AI researcher at <a href="https://i.mediatek.com/mediatekresearch" target="_blank" rel="noopener">MediaTek Ressearch</a>.</li>
- 	<li>2018-2020: Senior machine learning researcher at <a href="https://www.secondmind.ai/" target="_blank" rel="noopener">seondmind.ai</a>. Director: Professor Carl Rasmussen, Cambridge University.</li>
+ 	<li>2018-2020: Senior machine learning researcher at <a href="https://www.secondmind.ai/research/labs/" target="_blank" rel="noopener">Seondmind Labs</a>. Director: Professor Carl Rasmussen, Cambridge University.</li>
  	<li>2017-2018: Postdoctoral researcher at Princeton University. Advisor: Professor Mung Chaing.</li>
 </ul>
 <h2>Education</h2>
