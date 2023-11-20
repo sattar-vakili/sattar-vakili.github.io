@@ -20,7 +20,7 @@ Sattar Vakili is a senior AI researcher at MediaTek Research, the research arm o
 </ul>
 <h2>Education</h2>
 <ul>
- 	<li>2017: Ph.D.<span dir="ltr" role="presentation"> in electrical and computer engineering</span> <span dir="ltr" role="presentation">with a</span> <span dir="ltr" role="presentation">minor degree in applied mathemathics, Cornell University, Ithaca, NY. Advisor: Professor Qing Zhao.</span></li>
+ 	<li>2017: Ph.D.<span dir="ltr" role="presentation"> in Electrical and Computer Engineering</span> <span dir="ltr" role="presentation">with a</span> <span dir="ltr" role="presentation">Minor Degree in Applied Mathemathics, Cornell University, Ithaca, NY. Advisor: Professor Qing Zhao.</span></li>
  	<li>2013: M.S. in Electrical and Computer Engineering, University of California, Davis, CA.</li>
  	<li>2011: B.Sc. in Electrical Engineering, Sharif University of Technology, Tehran, Iran.</li>
 </ul>
