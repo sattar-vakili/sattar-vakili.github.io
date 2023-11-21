@@ -27,11 +27,14 @@ profile_picture:
   <li> Diffusion models</li>
 </ul>
 
-<span style="color:white">Machine Learning, Bandit, Reinforcement learning, kernel methods, Google Scholar, LinkedIn, Cornell, MediaTek, MediaTek Research, Cambridge </span>
+<span style="color:white">Machine Learning, Bandit, Reinforcement learning, kernel methods, Google Scholar, LinkedIn, Cornell, MediaTek, <a href="" target="_blank" rel="noopener">X</a>  </span>
+
+<a href="https://team.inria.fr/scool/" target="_blank" rel="noopener">Inria Scool</a>
 
 
 # Latest
 <ul>
+  <li><strong>December 2023: </strong> Presenting <a href="https://arxiv.org/abs/2306.07745" target="_blank" rel="noopener">our NeurIPS paper</a> at <a href="https://www.neuripsmeetupcambridge.info/home" target="_blank" rel="noopener">local meetup</a>, Cambrdige University, Dec 8th. </li>
   <li><strong>October 2023: </strong><a href="https://arxiv.org/abs/2207.07948" target="_blank" rel="noopener">Collaborative Learning in Kernel-based Bandits for Distributed Users</a> is accepted at IEEE Transactions on Signal Processing.</li>
   <li><strong>October 2023: </strong> Giving a talk at the <a href="https://team.inria.fr/scool/" target="_blank" rel="noopener">Inria Scool</a> seminar series at University of Lille.</li>
   <li><strong>October 2023: </strong>"<a href="https://arxiv.org/abs/2310.01609" target="_blank" rel="noopener">Adversarial Contextual Bandits Go Kernelized</a>" is available on arXiv.</li>
