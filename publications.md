@@ -1,6 +1,7 @@
 # Selected Publications 
 
 <ul>
+  <li><a href="https://arxiv.org/abs/2310.15351" target="blank" rel="noopener">Random Exploration in Bayesian Optimization: Order-Optimal Regret and Computational Efficiency</a>, arXiv 2023</li>
   <li><a href="https://arxiv.org/abs/2306.07745" target="_blank" rel="noopener">Kernelized Reinforcement Learning with Order Optimal Regret Bounds</a>, NeurIPS 2023 (Part of this work was presented at EWRL 2023)</li>
   <li><a href="https://arxiv.org/abs/2207.07948" target="_blank" rel="noopener">Collaborative Learning in Kernel-based Bandits for Distributed Users</a>, IEEE Transactions on Signal Processing 2023</li>
   <li><a href="https://arxiv.org/abs/2302.00392" target="_blank" rel="noopener">Delayed Feedback in Kernel Bandits</a>, ICML 2023, <a href="https://icml.cc/virtual/2023/poster/25129" target="_blank" rel="noopener">[presentation]</a></li>
