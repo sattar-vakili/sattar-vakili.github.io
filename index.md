@@ -27,9 +27,9 @@ profile_picture:
   <li> Diffusion models</li>
 </ul>
 
-<span style="color:white">Machine Learning, Bandit, Reinforcement learning, kernel methods, Google Scholar, LinkedIn, Cornell, MediaTek, <a href="" target="_blank" rel="noopener">X</a>  </span>
+<span style="color:white">Machine Learning, Bandit, Reinforcement learning, kernel methods, Google Scholar, LinkedIn, Cornell, MediaTek,  </span>
 
-<a href="https://team.inria.fr/scool/" target="_blank" rel="noopener">Inria Scool</a>
+
 
 
 # Latest
