@@ -12,7 +12,7 @@ Reinforcement Learning (RL) has shown great empirical success in various setting
 
 <img src="{{ "/assets/img/SPD.png" | absolute_url }}" alt="{{ Image }}"  style="width:250px;height:250px;" />
 
-Denosing diffusion models have shown significant advancements in image generation. We introduce a novel approach where images are perturbed with noise along the shortest path from the distribution of images to the distribution of noise. We propose the Fisher metric for the path length, measured in the space of probability distributions. Referred to as <a href="https://arxiv.org/abs/2306.00501" target="_blank" rel="noopener"> Shortest Path Diffusion (SPD) </a>, this approach uniquely determines the complete spatiotemporal structure of the corruption process. We demonstrate that SPD surpasses strong baseline methods without requiring any hyperparameter tuning. 
+Denosing diffusion models have shown significant advancements in image generation. We introduce a novel approach where images are perturbed with noise along the shortest path from the distribution of images to the distribution of noise. We propose the Fisher metric for the path length, measured in the space of probability distributions. Referred to as <a href="https://arxiv.org/abs/2306.00501" target="_blank" rel="noopener"> Shortest Path Diffusion (SPD)</a>, this approach uniquely determines the complete spatiotemporal structure of the corruption process. We demonstrate that SPD surpasses strong baseline methods without requiring any hyperparameter tuning. 
 
 
 ## Convergence rate of Nyström method and SVGP
