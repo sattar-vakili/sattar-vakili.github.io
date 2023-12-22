@@ -1,6 +1,8 @@
 # Selected Publications 
 
 <ul>
+  <li><a href="https://arxiv.org/abs/2312.09674" target="_blank" rel="noopener">Optimal Regret Bounds for Collaborative Learning in Bandits</a>, Algorithmic Learning Theory (ALT) 2024</li>
+  <li><a href="https://arxiv.org/abs/2310.01609" target="_blank" rel="noopener">Adversarial Contextual Bandits Go Kernelized</a>, Algorithmic Learning Theory (ALT) 2024</li>
   <li><a href="https://arxiv.org/abs/2310.15351" target="blank" rel="noopener">Random Exploration in Bayesian Optimization: Order-Optimal Regret and Computational Efficiency</a>, arXiv 2023</li>
   <li><a href="https://arxiv.org/abs/2306.07745" target="_blank" rel="noopener">Kernelized Reinforcement Learning with Order Optimal Regret Bounds</a>, NeurIPS 2023 (Part of this work was presented at EWRL 2023)</li>
   <li><a href="https://arxiv.org/abs/2207.07948" target="_blank" rel="noopener">Collaborative Learning in Kernel-based Bandits for Distributed Users</a>, IEEE Transactions on Signal Processing 2023</li>
