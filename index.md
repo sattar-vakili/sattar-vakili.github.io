@@ -4,7 +4,9 @@ profile_picture:
   src: /assets/img/profile-pic.jpg
   alt: sattar vakili
 ---
-<h3><strong>Principal AI Research Manager at <a href="https://i.mediatek.com/mediatekresearch" target="_blank" rel="noopener">MediaTek Research</a></strong></h3>
+<h3><strong>Principal AI Research Manager
+  
+@ <a href="https://i.mediatek.com/mediatekresearch" target="_blank" rel="noopener">MediaTek Research</a></strong></h3>
 
 
 
