@@ -34,10 +34,11 @@ profile_picture:
 <span style="color:white">Machine Learning, Bandit, Reinforcement learning, kernel methods, Google Scholar, LinkedIn, Cornell, MediaTek,  </span>
 
 
-
+Giving a tutorial on Recent Advances of Statistical Reinforcement Learning at UAI 2024, July 15th in Barcelona
 
 # Latest
 <ul>
+  <li><strong>April 2024: </strong> Giving a tutorial on <a href="https://www.auai.org/uai2024/tutorials" target="_blank" rel="noopener">Recent Advances of Statistical Reinforcement Learning</a> at Uncertainty in Artificial Intelligence (UAI) 2024, July 15th in Barcelona.</li>
   <li><strong>December 2023: </strong><a href="https://arxiv.org/abs/2312.09674" target="_blank" rel="noopener">Optimal Regret Bounds for Collaborative Learning in Bandits</a> is accepted at Algorithmic Learning Theory (ALT) 2024.</li>
   <li><strong>December 2023: </strong><a href="https://arxiv.org/abs/2310.01609" target="_blank" rel="noopener">Adversarial Contextual Bandits Go Kernelized</a> is accepted at Algorithmic Learning Theory (ALT) 2024.</li>
   <li><strong>December 2023: </strong> Presenting <a href="https://arxiv.org/abs/2306.07745" target="_blank" rel="noopener">our NeurIPS paper</a> at <a href="https://www.neuripsmeetupcambridge.info/home" target="_blank" rel="noopener">local meetup</a>, Cambrdige University, Dec 8th. </li>
