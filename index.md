@@ -34,8 +34,6 @@ profile_picture:
 <span style="color:white">Machine Learning, Bandit, Reinforcement learning, kernel methods, Google Scholar, LinkedIn, Cornell, MediaTek,  </span>
 
 
-Giving a tutorial on Recent Advances of Statistical Reinforcement Learning at UAI 2024, July 15th in Barcelona
-
 # Latest
 <ul>
   <li><strong>April 2024: </strong> Giving a tutorial on <a href="https://www.auai.org/uai2024/tutorials" target="_blank" rel="noopener">Recent Advances of Statistical Reinforcement Learning</a> at Uncertainty in Artificial Intelligence (UAI) 2024, July 15th in Barcelona.</li>
