@@ -33,10 +33,11 @@ profile_picture:
 
 <span style="color:white">Machine Learning, Bandit, Reinforcement learning, kernel methods, Google Scholar, LinkedIn, Cornell, MediaTek,  </span>
 
-
+Reward-Free Kernel-Based Reinforcement Learning
 # Latest
 <ul>
-  <li><strong>June 2024: </strong>"<a class="gsc_oci_title_link" href="https://arxiv.org/abs/2310.15351" target="_blank" rel="noopener" data-clk="hl=en&amp;sa=T&amp;ei=hBd2ZMqBNJaay9YP8PScyAs">Random Exploration in Bayesian Optimization: Order-Optimal Regret and Computational Efficiency</a>" is accepted at <strong>ICML 2024</strong>.</li>
+  <li><strong>June 2024: </strong>Reward-Free Kernel-Based Reinforcement Learning is accepted at <strong>ICML 2024</strong>.</li>
+  <li><strong>June 2024: </strong><a class="gsc_oci_title_link" href="https://arxiv.org/abs/2310.15351" target="_blank" rel="noopener" data-clk="hl=en&amp;sa=T&amp;ei=hBd2ZMqBNJaay9YP8PScyAs">Random Exploration in Bayesian Optimization: Order-Optimal Regret and Computational Efficiency</a> is accepted at <strong>ICML 2024</strong>.</li>
   <li><strong>April 2024: </strong> Giving a tutorial on <a href="https://www.auai.org/uai2024/tutorials" target="_blank" rel="noopener">Recent Advances of Statistical Reinforcement Learning</a> at Uncertainty in Artificial Intelligence (UAI) 2024, July 15th in Barcelona.</li>
   <li><strong>December 2023: </strong><a href="https://arxiv.org/abs/2312.09674" target="_blank" rel="noopener">Optimal Regret Bounds for Collaborative Learning in Bandits</a> is accepted at Algorithmic Learning Theory (ALT) 2024.</li>
   <li><strong>December 2023: </strong><a href="https://arxiv.org/abs/2310.01609" target="_blank" rel="noopener">Adversarial Contextual Bandits Go Kernelized</a> is accepted at Algorithmic Learning Theory (ALT) 2024.</li>
