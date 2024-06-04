@@ -33,7 +33,6 @@ profile_picture:
 
 <span style="color:white">Machine Learning, Bandit, Reinforcement learning, kernel methods, Google Scholar, LinkedIn, Cornell, MediaTek,  </span>
 
-Reward-Free Kernel-Based Reinforcement Learning
 # Latest
 <ul>
   <li><strong>June 2024: </strong>Reward-Free Kernel-Based Reinforcement Learning is accepted at <strong>ICML 2024</strong>.</li>
