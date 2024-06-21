@@ -35,7 +35,8 @@ profile_picture:
 
 # Latest
 <ul>
-  <li> <strong>June 2024:</strong> Together with colleagues at MediaTek Research and UCL, we are organizing <strong>a local ICML meetup on July 12th in London</strong>. Don’t miss the opportunity to learn, grow your network, present your ICML paper, or other related research to the local community. Register your attendance here: <a class="gsc_oci_title_link" href=www.icml-meetup-london.info target="_blank" rel="noopener"> icml-meetup-london.info</a> and please indicate if you wish to present a poster. </li>
+  <li> <strong>June 2024:</strong> Together with colleagues at MediaTek Research and UCL, we are organizing <strong>a local ICML meetup on July 12th in London</strong>. Don’t miss the opportunity to learn, grow your network, present your ICML paper, or other related research to the local community. Register your attendance here: 
+    <a href="https://icml-meetup-london.info" target="_blank" rel="noopener">icml-meetup-london.info</a> and please indicate if you wish to present a poster. </li>
   <li><strong>June 2024: </strong>Open Problem: Order Optimal Regret Bounds for Kernel-Based
 Reinforcement Learning is accepted at <strong>COLT 2024</strong>.</li>
   <li><strong>June 2024: </strong>Reward-Free Kernel-Based Reinforcement Learning is accepted at <strong>ICML 2024</strong>.</li>
