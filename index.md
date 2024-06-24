@@ -35,7 +35,7 @@ profile_picture:
 
 # Latest
 <ul>
-  <li> <strong>June 2024:</strong> Involved in organising <strong><a href="https://www.icml-meetup-london.info" target="_blank" rel="noopener">a local ICML meetup on July 12th in London</a></strong>. Don’t miss the opportunity to learn, grow your network, present your ICML paper, or other related research to the local community.</li>
+  <li> <strong>June 2024:</strong> Involved in organizing <strong><a href="https://www.icml-meetup-london.info" target="_blank" rel="noopener">a local ICML meetup on July 12th in London</a></strong>. A greta opportunity to present your work, learn, and grow your network.</li>
   <li><strong>June 2024: </strong><a Open Problem: href="https://arxiv.org/abs/2406.15250" target="_blank" rel="noopener">Order Optimal Regret Bounds for Kernel-Based Reinforcement Learning</a> is accepted at <strong>COLT 2024</strong>.</li>
   <li><strong>June 2024: </strong>Reward-Free Kernel-Based Reinforcement Learning is accepted at <strong>ICML 2024</strong>.</li>
   <li><strong>June 2024: </strong><a class="gsc_oci_title_link" href="https://arxiv.org/abs/2310.15351" target="_blank" rel="noopener" data-clk="hl=en&amp;sa=T&amp;ei=hBd2ZMqBNJaay9YP8PScyAs">Random Exploration in Bayesian Optimization: Order-Optimal Regret and Computational Efficiency</a> is accepted at <strong>ICML 2024</strong>.</li>
