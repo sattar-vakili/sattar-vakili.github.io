@@ -1,6 +1,7 @@
 # Selected Publications 
 
 <ul>
+  <li><a href="https://openreview.net/pdf?id=QTt2xJI8vk" target="_blank" rel="noopener">Reward-Free Kernel-Based Reinforcement Learning</a>, ICML 2024</li>
   <li><a href="https://arxiv.org/abs/2406.15250" target="_blank" rel="noopener">Open Problem: Order Optimal Regret Bounds for Kernel-Based Reinforcement Learning</a>, COLT 2024</li>
   <li><a href="https://arxiv.org/abs/2310.15351" target="blank" rel="noopener">Random Exploration in Bayesian Optimization: Order-Optimal Regret and Computational Efficiency</a>, ICML 2024</li>
   <li><a href="https://arxiv.org/abs/2312.09674" target="_blank" rel="noopener">Optimal Regret Bounds for Collaborative Learning in Bandits</a>, Algorithmic Learning Theory (ALT) 2024</li>
