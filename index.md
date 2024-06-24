@@ -37,7 +37,7 @@ profile_picture:
 <ul>
   <li> <strong>June 2024:</strong> Involved in organizing <strong><a href="https://www.icml-meetup-london.info" target="_blank" rel="noopener">a local ICML meetup on July 12th in London</a></strong>. A great opportunity to present your work, learn, and grow your network.</li>
   <li><strong>June 2024: </strong><a href="https://arxiv.org/abs/2406.15250" target="_blank" rel="noopener">Open Problem: Order Optimal Regret Bounds for Kernel-Based Reinforcement Learning</a> is accepted at <strong>COLT 2024</strong>.</li>
-  <li><strong>June 2024: </strong>Reward-Free Kernel-Based Reinforcement Learning is accepted at <strong>ICML 2024</strong>.</li>
+  <li><strong>June 2024: </strong><a href="https://openreview.net/pdf?id=QTt2xJI8vk" target="_blank" rel="noopener">Reward-Free Kernel-Based Reinforcement Learning</a> is accepted at <strong>ICML 2024</strong>.</li>
   <li><strong>June 2024: </strong><a class="gsc_oci_title_link" href="https://arxiv.org/abs/2310.15351" target="_blank" rel="noopener" data-clk="hl=en&amp;sa=T&amp;ei=hBd2ZMqBNJaay9YP8PScyAs">Random Exploration in Bayesian Optimization: Order-Optimal Regret and Computational Efficiency</a> is accepted at <strong>ICML 2024</strong>.</li>
   <li><strong>April 2024: </strong> Giving a tutorial on <a href="https://www.auai.org/uai2024/tutorials" target="_blank" rel="noopener">Recent Advances of Statistical Reinforcement Learning</a> at Uncertainty in Artificial Intelligence (UAI) 2024, July 15th in Barcelona.</li>
   <li><strong>December 2023: </strong><a href="https://arxiv.org/abs/2312.09674" target="_blank" rel="noopener">Optimal Regret Bounds for Collaborative Learning in Bandits</a> is accepted at Algorithmic Learning Theory (ALT) 2024.</li>
