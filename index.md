@@ -35,6 +35,7 @@ profile_picture:
 
 # Latest
 <ul>
+  <li><strong>October 2024: </strong><a href="https://arxiv.org/abs/2410.23498" target="_blank" rel="noopener">Kernel-Based Function Approximation for Average Reward Reinforcement Learning: An Optimist No-Regret Algorithm</a> is accepted at <strong>NeurIPS 2024</strong></li>
   <li><strong>July 2024: </strong> Giving a tutorial on <strong><a href="https://www.auai.org/uai2024/tutorials" target="_blank" rel="noopener">Recent Advances of Statistical Reinforcement Learning</a></strong> at Uncertainty in Artificial Intelligence (UAI) 2024, July 15th in Barcelona. <strong>[<a href="assets
 /UAI2024_RL_tutorial.pdf" target="_blank" rel="noopener">Download the slides here</a>].</strong> </li>
   <li> <strong>June 2024:</strong> Involved in organizing <strong><a href="https://www.icml-meetup-london.info" target="_blank" rel="noopener">a local ICML meetup on July 12th in London</a></strong>. A great opportunity to present your work, learn, and grow your network.</li>
