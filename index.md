@@ -35,6 +35,7 @@ profile_picture:
 
 # Latest
 <ul>
+  <li><strong>January 2025: </strong><a href="https://openreview.net/forum?id=DgbY2CuyhW" target="_blank" rel="noopener">Near-Optimal Sample Complexity in Reward-Free Reinforcement Learning</a> is accepted at <strong>AISTATS 2025</strong>.</li>
   <li><strong>October 2024: </strong><a href="https://arxiv.org/abs/2410.23498" target="_blank" rel="noopener">Kernel-Based Function Approximation for Average Reward Reinforcement Learning: An Optimist No-Regret Algorithm</a> is accepted at <strong>NeurIPS 2024</strong>.</li>
   <li><strong>October 2024: </strong><a href="https://arxiv.org/abs/2302.08436" target="_blank" rel="noopener">Trieste: Efficiently Exploring The Depths of Black-box Functions with TensorFlow</a> is accepted at <strong>NeurIPS 2024</strong> Workshop on Bayesian Decision-making and Uncertainty.</li>
   <li><strong>September 2024:</strong> <a href="https://arxiv.org/abs/2310.01609" target="_blank" rel="noopener">Adversarial Contextual Bandits Go Kernelized</a> will be presented at European Workshop on Reinforcement Learning (EWRL 2024).</li>
