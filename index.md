@@ -35,9 +35,9 @@ profile_picture:
 
 # Latest
 <ul>
-  
+  <li><strong>Feburary 2025: </strong> Giving a <a href="assets/OxCSML_presentation_web.pdf" target="_blank" rel="noopener">presentation</a> at <a href="https://csml.stats.ox.ac.uk/" target="_blank" rel="noopener">OxCSML seminar series</a>, Oxford Univeristy, Feb 21st. </li>
   <li><strong>January 2025: </strong><a href="https://openreview.net/forum?id=DgbY2CuyhW" target="_blank" rel="noopener">Near-Optimal Sample Complexity in Reward-Free Reinforcement Learning</a> is accepted at <strong>AISTATS 2025</strong>.</li>
-  <li><strong>December 2025: </strong> Presenting <a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/2d0842550e6d92b0e27e7e810b1a4792-Abstract-Conference.html" target="_blank" rel="noopener">our NeurIPS paper</a> at <a href="https://www.neuripsmeetupatcambridge.info/home" target="_blank" rel="noopener">local meetup</a>, Cambrdige University, Dec 6th. </li>
+  <li><strong>December 2024: </strong> Presenting <a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/2d0842550e6d92b0e27e7e810b1a4792-Abstract-Conference.html" target="_blank" rel="noopener">our NeurIPS paper</a> at <a href="https://www.neuripsmeetupatcambridge.info/home" target="_blank" rel="noopener">local meetup</a>, Cambrdige University, Dec 6th. </li>
   <li><strong>October 2024: </strong><a href="https://arxiv.org/abs/2410.23498" target="_blank" rel="noopener">Kernel-Based Function Approximation for Average Reward Reinforcement Learning: An Optimist No-Regret Algorithm</a> is accepted at <strong>NeurIPS 2024</strong>.</li>
   <li><strong>October 2024: </strong><a href="https://arxiv.org/abs/2302.08436" target="_blank" rel="noopener">Trieste: Efficiently Exploring The Depths of Black-box Functions with TensorFlow</a> is accepted at <strong>NeurIPS 2024</strong> Workshop on Bayesian Decision-making and Uncertainty.</li>
   <li><strong>September 2024:</strong> <a href="https://arxiv.org/abs/2310.01609" target="_blank" rel="noopener">Adversarial Contextual Bandits Go Kernelized</a> will be presented at European Workshop on Reinforcement Learning (EWRL 2024).</li>
