@@ -35,6 +35,7 @@ profile_picture:
 
 # Latest
 <ul>
+  <li><strong>June 2024: </strong><a href="https://arxiv.org/abs/2505.23673" target="_blank" rel="noopener">Bayesian Optimization from Human Feedback: Near-Optimal Regret Bounds</a> is accepted at <strong>ICML 2025</strong>.</li>
   <li><strong>March 2025: </strong> Giving a <a href="https://talks.cam.ac.uk/talk/index/221086" target="_blank" rel="noopener">Tech Talk</a> on AI and Communication at Cambridge University, Mar 10th. </li>
   <li><strong>Feburary 2025: </strong> Giving a <a href="assets/OxCSML_presentation_web.pdf" target="_blank" rel="noopener">presentation</a> at the <a href="https://csml.stats.ox.ac.uk/" target="_blank" rel="noopener">Computational Statistics and Machine Learning (OxCSML) seminar series</a>, Oxford University, Feb 21st. </li>
   <li><strong>January 2025: </strong><a href="https://openreview.net/forum?id=DgbY2CuyhW" target="_blank" rel="noopener">Near-Optimal Sample Complexity in Reward-Free Reinforcement Learning</a> is accepted at <strong>AISTATS 2025</strong>.</li>
