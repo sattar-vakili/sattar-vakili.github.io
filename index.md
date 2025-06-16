@@ -35,6 +35,7 @@ profile_picture:
 
 # Latest
 <ul>
+  <li><strong>June 2025: </strong>Reinforcement Learning with Thompson Sampling: No-Regret Performance over Finite Horizons</a> is accepted to be presented at the <strong>ICML 2025</strong> workshop <a href="https://exait-workshop.github.io/" target="_blank" rel="noopener">Exploration in AI Today</a>.</li>
   <li><strong>June 2025: </strong><a href="https://arxiv.org/abs/2505.14603" target="_blank" rel="noopener">Towards a Foundation Model for Communication Systems</a> is accepted to be presented at the <strong>ICML 2025</strong> workshop <a href="https://sites.google.com/uniroma1.it/ml4wireless/" target="_blank" rel="noopener">ML for wireless communication and networks</a>.</li>
   <li><strong>May 2025: </strong><a href="https://arxiv.org/abs/2505.23673" target="_blank" rel="noopener">Bayesian Optimization from Human Feedback: Near-Optimal Regret Bounds</a> is accepted at <strong>ICML 2025</strong>.</li>
   <li><strong>March 2025: </strong> Giving a <a href="https://talks.cam.ac.uk/talk/index/221086" target="_blank" rel="noopener">Tech Talk</a> on AI and Communication at Cambridge University, Mar 10th. </li>
