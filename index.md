@@ -34,7 +34,6 @@ profile_picture:
 <span style="color:white">Machine Learning, Bandit, Reinforcement learning, kernel methods, Google Scholar, LinkedIn, Cornell, MediaTek,  </span>
 
 # Latest
-Reinforcement Learning with Thompson Sampling: No-Regret Performance over Finite Horizons
 <ul>
   <li><strong>June 2025: </strong> Reinforcement Learning with Thompson Sampling: No-Regret Performance over Finite Horizons is accepted to be presented at the <strong>ICML 2025</strong> workshop <a href="https://exait-workshop.github.io/" target="_blank" rel="noopener">Exploration in AI Today</a>.</li>
   <li><strong>June 2025: </strong><a href="https://arxiv.org/abs/2505.14603" target="_blank" rel="noopener">Towards a Foundation Model for Communication Systems</a> is accepted to be presented at the <strong>ICML 2025</strong> workshop <a href="https://sites.google.com/uniroma1.it/ml4wireless/" target="_blank" rel="noopener">ML for wireless communication and networks</a>.</li>
