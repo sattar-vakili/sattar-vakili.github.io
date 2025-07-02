@@ -1,6 +1,7 @@
 # Selected Publications 
 
 <ul>
+  <li><a href="https://arxiv.org/abs/2505.23673" target="_blank" rel="noopener">Bayesian Optimization from Human Feedback: Near-Optimal Regret Bounds</a>, ICML 2025</li>
   <li><a href="https://openreview.net/forum?id=DgbY2CuyhW" target="_blank" rel="noopener">Near-Optimal Sample Complexity in Reward-Free Reinforcement Learning</a>, AISTATS 2025</li>
   <li><a href="https://arxiv.org/abs/2410.23498" target="_blank" rel="noopener">Kernel-Based Function Approximation for Average Reward Reinforcement Learning: An Optimist No-Regret Algorithm</a>, NeurIPS 2024</li>
   <li><a href="https://arxiv.org/abs/2406.15250" target="_blank" rel="noopener">Open Problem: Order Optimal Regret Bounds for Kernel-Based Reinforcement Learning</a>, COLT 2024</li>
