@@ -25,10 +25,7 @@ profile_picture:
 # Research Interests
 
 <ul>
-  <li> Machine learning and artificial intelligence</li>
-  <li> Sequential decision making, bandit and RL</li>
-  <li> Kernel methods, Gaussian processes and Bayesian optimisation</li>
-  <li> Diffusion models</li>
+  Reinforcement learning; bandits; Bayesian optimisation; Gaussian processes and kernel methods; sequential decision making; generative and diffusion models; transformers and foundation models; probabilistic modelling; information theory; applications to engineering, science, and experimental design.
 </ul>
 
 <span style="color:white">Machine Learning, Bandit, Reinforcement learning, kernel methods, Google Scholar, LinkedIn, Cornell, MediaTek,  </span>
