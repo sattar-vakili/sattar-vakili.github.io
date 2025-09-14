@@ -6,7 +6,9 @@ profile_picture:
 ---
 
 
-Sattar Vakili is a senior AI researcher at MediaTek Research, the research arm of MediaTek — a globally renowned semiconductor company. He specializes in problems involving sequential decision-making in uncertain environments, with a focus on optimization, bandit and reinforcement learning, kernel-based modeling, and neural networks. Before joining MediaTek Research, Sattar worked at Secondmind, a research lab in Cambridge, UK, led by Professor Carl Rasmussen, Cambridge University. There, he gained expertise in kernel-based and Gaussian process models. Prior to that, he was a postdoc at Princeton University. Sattar earned his PhD under the supervision of Professor Qing Zhao at Cornell University in 2017 with a dissertation on sequential methods for learning and optimization.
+Sattar Vakili is Principal AI Research Manager at MediaTek Research, the research arm of MediaTek — a globally leading semiconductor company. His research focuses on sequential decision-making under uncertainty, with expertise in optimization, bandits and reinforcement learning, kernel-based modelling, and neural networks.
+
+Before joining MediaTek, Sattar worked at Secondmind, a Cambridge-based research lab directed by Professor Carl Rasmussen, where he developed methods for kernel and Gaussian process models. Earlier, he was a Postdoctoral Research Associate at Princeton University. He received his PhD in Electrical and Computer Engineering (minor in Applied Mathematics) from Cornell University in 2017, under the supervision of Professor Qing Zhao, with a dissertation on sequential methods for learning and optimization.
 
 &nbsp;
 
@@ -14,9 +16,10 @@ Sattar Vakili is a senior AI researcher at MediaTek Research, the research arm o
 
 <h2>Research Experience</h2>
 <ul>
- 	<li>2020 - : Senior AI researcher at <a href="https://i.mediatek.com/mediatekresearch" target="_blank" rel="noopener">MediaTek Ressearch</a>.</li>
- 	<li>2018-2020: Senior machine learning researcher at <a href="https://www.secondmind.ai/research/labs/" target="_blank" rel="noopener">Seondmind Labs</a>. Director: Professor Carl Rasmussen, Cambridge University.</li>
- 	<li>2017-2018: Postdoctoral researcher at Princeton University. Advisor: Professor Mung Chaing.</li>
+  <li>2023–present: Principal AI Research Manager at <a href="https://i.mediatek.com/mediatekresearch" target="_blank" rel="noopener">MediaTek Research</a>, Cambridge, UK.</li>
+  <li>2020–2023: Senior AI Researcher at <a href="https://i.mediatek.com/mediatekresearch" target="_blank" rel="noopener">MediaTek Research</a>, Cambridge, UK.</li>
+  <li>2018–2020: Senior Machine Learning Researcher at <a href="https://www.secondmind.ai/research/labs/" target="_blank" rel="noopener">Secondmind Labs</a>, Cambridge, UK (Director: Professor Carl Rasmussen, University of Cambridge).</li>
+  <li>2017–2018: Postdoctoral Research Associate at Princeton University (Advisor: Professor Mung Chiang).</li>
 </ul>
 <h2>Education</h2>
 <ul>
