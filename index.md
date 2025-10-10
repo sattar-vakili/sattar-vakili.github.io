@@ -4,15 +4,25 @@ profile_picture:
   src: /assets/img/sattar_pic.jpg
   alt: sattar vakili
 ---
-<h3><strong>Principal AI Research Manager
-  
-@ <a href="https://i.mediatek.com/mediatekresearch" target="_blank" rel="noopener">MediaTek Research</a></strong></h3>
+<h3>
+  <strong>Principal AI Research Manager</strong> @ 
+  <a href="https://i.mediatek.com/mediatekresearch" target="_blank" rel="noopener">
+    <strong>MediaTek Research</strong>
+  </a>
+</h3>
 
-
+<h4>
+  Visiting Researcher @ 
+  <a href="https://www.sanger.ac.uk/" target="_blank" rel="noopener">
+    Wellcome Sanger Institute
+  </a> 
+  | PhD (ECE), Cornell University
+</h4>
 
 <h4>sv388 [AT] cornell [DOT] edu</h4>
-
 <h4>sattar.vakili [AT] mtkresearch [DOT] com</h4>
+
+
 
 
 
