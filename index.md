@@ -42,7 +42,8 @@ profile_picture:
 
 # Latest
 <ul>
-  <li><strong>May 2025: </strong><a href="https://www.biorxiv.org/content/10.1101/2025.06.24.661094v3.full" target="_blank" rel="noopener">Mapping and reprogramming human tissue microenvironments with MintFlow</a> is under review at <strong>Nature</strong>.</li>
+  <li><strong>October 2025: </strong> Gave an invited talk on <em>"Decision-Making Under Uncertainty: AI with Human-in-the-Loop Perspective"</em> at the <strong>Workshop on Causal AI in Healthcare Policy & Practice</strong>, Oxford University.</li>
+  <li><strong>August 2025: </strong><a href="https://www.biorxiv.org/content/10.1101/2025.06.24.661094v3.full" target="_blank" rel="noopener">Mapping and reprogramming human tissue microenvironments with MintFlow</a> is under review at <strong>Nature</strong>.</li>
   <li><strong>June 2025: </strong> Reinforcement Learning with Thompson Sampling: No-Regret Performance over Finite Horizons is accepted to be presented at the <strong>ICML 2025</strong> workshop <a href="https://exait-workshop.github.io/" target="_blank" rel="noopener">Exploration in AI Today</a>.</li>
   <li><strong>June 2025: </strong><a href="https://arxiv.org/abs/2505.14603" target="_blank" rel="noopener">Towards a Foundation Model for Communication Systems</a> is accepted to be presented at the <strong>ICML 2025</strong> workshop <a href="https://sites.google.com/uniroma1.it/ml4wireless/" target="_blank" rel="noopener">ML for wireless communication and networks</a>.</li>
   <li><strong>May 2025: </strong><a href="https://arxiv.org/abs/2505.23673" target="_blank" rel="noopener">Bayesian Optimization from Human Feedback: Near-Optimal Regret Bounds</a> is accepted at <strong>ICML 2025</strong>.</li>
