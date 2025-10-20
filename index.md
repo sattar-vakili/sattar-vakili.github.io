@@ -1,8 +1,8 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/sattar_pic.jpg
-  alt: sattar vakili
+  src: /assets/img/profile-pic.jpg
+  alt: sattar vakili
 ---
 <h3>
   <strong>Principal AI Research Manager</strong> @ 
