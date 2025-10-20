@@ -4,98 +4,123 @@ profile_picture:
   src: /assets/img/sattar_pic.jpg
   alt: sattar vakili
 ---
-<h3>
-  <strong>Principal AI Research Manager</strong> @ 
-  <a href="https://i.mediatek.com/mediatekresearch" target="_blank" rel="noopener">
-    <strong>MediaTek Research</strong>
-  </a>
-</h3>
 
-<h4>
-  Visiting Researcher @ 
-  <a href="https://www.sanger.ac.uk/" target="_blank" rel="noopener">
-    Wellcome Sanger Institute
-  </a> 
-  | PhD (ECE), Cornell University
-</h4>
+<!-- Minimal, drop-in typography & spacing (no dark mode, no cards) -->
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#ffffff;
+    --text:#111827;      /* slate-900 */
+    --muted:#6B7280;     /* slate-500 */
+    --border:#E5E7EB;    /* slate-200 */
+    --accent:#B5179E;    /* your magenta. Try #4F46E5 (indigo) or #0F766E (teal) if you prefer */
+  }
+  html{font-size:16px;}
+  body{
+    font-family: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+    color:var(--text);
+    background:var(--bg);
+    line-height:1.7;
+    -webkit-font-smoothing:antialiased;
+    -moz-osx-font-smoothing:grayscale;
+  }
+  .main{max-width:900px; margin:40px auto; padding:0 18px;}
+  h1,h2,h3,h4{line-height:1.25; letter-spacing:-0.01em; margin:0 0 10px;}
+  h1{font-weight:800; font-size:2rem;}
+  h2{font-weight:700; font-size:1.5rem; margin-top:28px;}
+  h3{font-weight:600; font-size:1.125rem; margin-top:6px;}
+  h4{font-weight:500; font-size:1rem; color:var(--muted); margin-top:4px;}
+  a{color:inherit; text-decoration:none; border-bottom:1px solid transparent;}
+  a:hover{color:var(--accent); border-color:var(--accent);}
+  ul{margin:10px 0 0 1.1rem;}
+  ul li{margin:8px 0;}
+  .latest li strong{display:inline-block; min-width: 11ch;} /* aligns 'September 2025:' etc. */
+  .meta{color:var(--muted);}
+  .divider{height:1px; background:var(--border); margin:18px 0;}
+</style>
 
-<h4>sv388 [AT] cornell [DOT] edu</h4>
-<h4>sattar.vakili [AT] mtkresearch [DOT] com</h4>
+<div class="main">
+  <h1>SATTAR VAKILI</h1>
 
+  <h3>
+    <strong>Principal AI Research Manager</strong> @ 
+    <a href="https://i.mediatek.com/mediatekresearch" target="_blank" rel="noopener">
+      <strong>MediaTek Research</strong>
+    </a>
+  </h3>
 
+  <h4 class="meta">
+    Visiting Researcher @ 
+    <a href="https://www.sanger.ac.uk/" target="_blank" rel="noopener">Wellcome Sanger Institute</a>
+    · PhD (ECE), Cornell University
+  </h4>
 
+  <h4 class="meta">
+    sv388 [AT] cornell [DOT] edu · sattar.vakili [AT] mtkresearch [DOT] com
+  </h4>
 
+  <div class="divider"></div>
 
+  <h2 id="research-interests">Research Interests</h2>
+  <p class="meta">
+    Reinforcement learning; bandits; Bayesian optimisation; Gaussian processes and kernel methods; sequential decision making; generative and diffusion models; transformers and foundation models; probabilistic modelling; information theory; applications to engineering, science, and experimental design.
+  </p>
 
+  <!-- removed the hidden white keyword span for accessibility/SEO -->
 
-
-
-
-
-# Research Interests
-
-<ul>
-  Reinforcement learning; bandits; Bayesian optimisation; Gaussian processes and kernel methods; sequential decision making; generative and diffusion models; transformers and foundation models; probabilistic modelling; information theory; applications to engineering, science, and experimental design.
-</ul>
-
-<span style="color:white">Machine Learning, Bandit, Reinforcement learning, kernel methods, Google Scholar, LinkedIn, Cornell, MediaTek,  </span>
-
-# Latest
-<ul>
-  <li><strong>October 2025: </strong>Gave an invited talk on "Decision-Making Under Uncertainty: AI with Human-in-the-Loop Perspective" at the Workshop on Causal AI in Healthcare Policy & Practice, Oxford University.</li>
-  <li><strong>August 2025: </strong><a href="https://www.biorxiv.org/content/10.1101/2025.06.24.661094v3.full" target="_blank" rel="noopener">Mapping and reprogramming human tissue microenvironments with MintFlow</a> is under review at <strong>Nature</strong>.</li>
-  <li><strong>June 2025: </strong> Reinforcement Learning with Thompson Sampling: No-Regret Performance over Finite Horizons is accepted to be presented at the <strong>ICML 2025</strong> workshop <a href="https://exait-workshop.github.io/" target="_blank" rel="noopener">Exploration in AI Today</a>.</li>
-  <li><strong>June 2025: </strong><a href="https://arxiv.org/abs/2505.14603" target="_blank" rel="noopener">Towards a Foundation Model for Communication Systems</a> is accepted to be presented at the <strong>ICML 2025</strong> workshop <a href="https://sites.google.com/uniroma1.it/ml4wireless/" target="_blank" rel="noopener">ML for wireless communication and networks</a>.</li>
-  <li><strong>May 2025: </strong><a href="https://arxiv.org/abs/2505.23673" target="_blank" rel="noopener">Bayesian Optimization from Human Feedback: Near-Optimal Regret Bounds</a> is accepted at <strong>ICML 2025</strong>.</li>
-  <li><strong>May 2025: </strong> Will be giving a tutorial on Foundation Models for Communication Systems at IEEE GLOBECOM, December 2025, Taipei.</li>
-  <li><strong>March 2025: </strong> Giving a <a href="https://talks.cam.ac.uk/talk/index/221086" target="_blank" rel="noopener">Tech Talk</a> on AI and Communication at Cambridge University, Mar 10th. </li>
-  <li><strong>Feburary 2025: </strong> Giving a <a href="assets/OxCSML_presentation_web.pdf" target="_blank" rel="noopener">presentation</a> at the <a href="https://csml.stats.ox.ac.uk/" target="_blank" rel="noopener">Computational Statistics and Machine Learning (OxCSML) seminar series</a>, Oxford University, Feb 21st. </li>
-  <li><strong>January 2025: </strong><a href="https://openreview.net/forum?id=DgbY2CuyhW" target="_blank" rel="noopener">Near-Optimal Sample Complexity in Reward-Free Reinforcement Learning</a> is accepted at <strong>AISTATS 2025</strong>.</li>
-  <li><strong>December 2024: </strong> Presenting <a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/2d0842550e6d92b0e27e7e810b1a4792-Abstract-Conference.html" target="_blank" rel="noopener">our NeurIPS paper</a> at <a href="https://www.neuripsmeetupatcambridge.info/home" target="_blank" rel="noopener">local meetup</a>, Cambrdige University, Dec 6th. </li>
-  <li><strong>October 2024: </strong><a href="https://arxiv.org/abs/2410.23498" target="_blank" rel="noopener">Kernel-Based Function Approximation for Average Reward Reinforcement Learning: An Optimist No-Regret Algorithm</a> is accepted at <strong>NeurIPS 2024</strong>.</li>
-  <li><strong>October 2024: </strong><a href="https://arxiv.org/abs/2302.08436" target="_blank" rel="noopener">Trieste: Efficiently Exploring The Depths of Black-box Functions with TensorFlow</a> is accepted at <strong>NeurIPS 2024</strong> Workshop on Bayesian Decision-making and Uncertainty.</li>
-  <li><strong>September 2024:</strong> <a href="https://arxiv.org/abs/2310.01609" target="_blank" rel="noopener">Adversarial Contextual Bandits Go Kernelized</a> will be presented at European Workshop on Reinforcement Learning (EWRL 2024).</li>
-  <li><strong>September 2024:</strong> <a href="https://arxiv.org/abs/2410.23498" target="_blank" rel="noopener">Kernel-Based Function Approximation for Average Reward Reinforcement Learning: An Optimist No-Regret Algorithm</a> will be presented at European Workshop on Reinforcement Learning (EWRL 2024).</li>
-  <li><strong>July 2024: </strong> Giving a tutorial on <strong><a href="https://www.auai.org/uai2024/tutorials" target="_blank" rel="noopener">Recent Advances of Statistical Reinforcement Learning</a></strong> at Uncertainty in Artificial Intelligence (UAI) 2024, July 15th in Barcelona. <strong>[<a href="assets
-/UAI2024_RL_tutorial.pdf" target="_blank" rel="noopener">Download the slides here</a>].</strong> </li>
-  <li> <strong>June 2024:</strong> Involved in organizing <strong><a href="https://www.icml-meetup-london.info" target="_blank" rel="noopener">a local ICML meetup on July 12th in London</a></strong>. A great opportunity to present your work, learn, and grow your network.</li>
-  <li><strong>June 2024: </strong><a href="https://arxiv.org/abs/2406.15250" target="_blank" rel="noopener">Open Problem: Order Optimal Regret Bounds for Kernel-Based Reinforcement Learning</a> is accepted at <strong>COLT 2024</strong>.</li>
-  <li><strong>June 2024: </strong><a href="https://openreview.net/pdf?id=QTt2xJI8vk" target="_blank" rel="noopener">Reward-Free Kernel-Based Reinforcement Learning</a> is accepted at <strong>ICML 2024</strong>.</li>
-  <li><strong>June 2024: </strong><a class="gsc_oci_title_link" href="https://arxiv.org/abs/2310.15351" target="_blank" rel="noopener" data-clk="hl=en&amp;sa=T&amp;ei=hBd2ZMqBNJaay9YP8PScyAs">Random Exploration in Bayesian Optimization: Order-Optimal Regret and Computational Efficiency</a> is accepted at <strong>ICML 2024</strong>.</li>
-  <li><strong>April 2024: </strong> Giving a tutorial on <a href="https://www.auai.org/uai2024/tutorials" target="_blank" rel="noopener">Recent Advances of Statistical Reinforcement Learning</a> at Uncertainty in Artificial Intelligence (UAI) 2024, July 15th in Barcelona.</li>
-  <li><strong>December 2023: </strong><a href="https://arxiv.org/abs/2312.09674" target="_blank" rel="noopener">Optimal Regret Bounds for Collaborative Learning in Bandits</a> is accepted at Algorithmic Learning Theory (ALT) 2024.</li>
-  <li><strong>December 2023: </strong><a href="https://arxiv.org/abs/2310.01609" target="_blank" rel="noopener">Adversarial Contextual Bandits Go Kernelized</a> is accepted at Algorithmic Learning Theory (ALT) 2024.</li>
-  <li><strong>December 2023: </strong> Presenting <a href="https://arxiv.org/abs/2306.07745" target="_blank" rel="noopener">our NeurIPS paper</a> at <a href="https://www.neuripsmeetupcambridge.info/home" target="_blank" rel="noopener">local meetup</a>, Cambrdige University, Dec 8th. </li>
-  <li><strong>October 2023: </strong><a href="https://arxiv.org/abs/2207.07948" target="_blank" rel="noopener">Collaborative Learning in Kernel-based Bandits for Distributed Users</a> is accepted at IEEE Transactions on Signal Processing.</li>
-  <li><strong>October 2023: </strong> Giving a talk at the <a href="https://team.inria.fr/scool/" target="_blank" rel="noopener">Inria Scool</a> seminar series at University of Lille.</li>
-  <li><strong>October 2023: </strong><a href="https://arxiv.org/abs/2310.01609" target="_blank" rel="noopener">Adversarial Contextual Bandits Go Kernelized</a> is available on arXiv.</li>
-  <li><strong>September 2023: </strong><a href="https://arxiv.org/abs/2306.07745" target="_blank" rel="noopener">Kernelized Reinforcement Learning with Order Optimal Regret Bounds</a> is accepted at <strong>NeurIPS 2023</strong>.</li>
-  <li><strong>August 2023: </strong><a href="https://arxiv.org/abs/2308.05583" target="_blank" rel="noopener">Generative Diffusion Models for Radio Wireless Channel Modelling and Sampling</a> is accepted at <a href="https://globecom2023.ieee-globecom.org/" target="_blank" rel="noopener">GLOBECOM 2023</a>.</li>
- 	<li><strong>August 2023: </strong><a href="https://arxiv.org/abs/2306.07745" target="_blank" rel="noopener">Kernelized Reinforcement Learning with Order Optimal Regret Bounds</a> is accepted at <a href="https://ewrl.wordpress.com/ewrl16-2023/" target="_blank" rel="noopener">EWRL 2023</a>.</li>
-  <li><strong>August 2023: </strong> Check out <a href="https://proceedings.mlr.press/v195/lattimore23b.html" target="_blank" rel="noopener">Tor Lattimore's response</a> to the <a href="https://proceedings.mlr.press/v134/open-problem-vakili21a.html" target="_blank" rel="noopener">open problem</a> on online confidence intervals for RKHS elemets.</li>
- 	<li><strong>July 2023:</strong> Giving an <a href="https://www.youtube.com/watch?v=lHqe8oa2VWU&amp;ab_channel=HadiAmini" target="_blank" rel="noopener">online lecture</a> at FeDucation seminar series (Florida International University).</li>
- 	<li><strong>June 2023:</strong> Giving a <a href="https://ucl-ellis.github.io/dm_csml_seminars/2023-06-23-Vakili/" target="_blank" rel="noopener">seminar</a> on <a href="https://arxiv.org/pdf/2306.07745.pdf">kernel-based reinforcement learning</a> at Deepmind/Ellis CSML seminar series.</li>
- 	<li><strong>June 2023:</strong> Presenting <a href="https://arxiv.org/abs/2109.06099" target="_blank" rel="noopener">Information Gain and Uniform Generalization Bounds for Neural Kernel Models</a> at ISIT 2023 , Taipei.</li>
- 	<li><strong>May 2023:</strong> Giving an invited talk on kernel-based RL at the <a href="https://www.ucl.ac.uk/ai-centre/lsit-2023-seventh-london-symposium-information-theory">London Symposium on Information Theory</a></li>
- 	<li><strong>April 2023:</strong> "<a class="gsc_a_at" href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=N9xs8w0AAAAJ&amp;sortby=pubdate&amp;citation_for_view=N9xs8w0AAAAJ:iH-uZ7U-co4C" target="_blank" rel="noopener">Delayed Feedback in Kernel Bandits</a>" is accepted at <strong>ICML 2023</strong>.</li>
- 	<li><strong>April 2023: </strong>"<a class="gsc_oci_title_link" href="https://arxiv.org/abs/2206.00099" target="_blank" rel="noopener" data-clk="hl=en&amp;sa=T&amp;ei=hBd2ZMqBNJaay9YP8PScyAs">Provably and Practically Efficient Neural Contextual Bandits</a>" is accepted at <strong>ICML 2023</strong>.</li>
- 	<li><strong>April 2023: </strong>"<a href="https://arxiv.org/abs/2306.00501" target="_blank" rel="noopener">Image generation with shortest path diffusion</a>" is accepted at <strong>ICML 2023</strong>.</li>
- 	<li><strong>Feburary 2023: </strong>"<a href="https://arxiv.org/abs/2302.00392" target="_blank" rel="noopener">Delayed Feedback in Kernel Bandits</a>" is available on arXiv.</li>
- 	<li><strong>January 2023: </strong>"<a href="https://arxiv.org/abs/2302.00727" target="_blank" rel="noopener">Sample Complexity of Kernel-Based Q-Learning</a>" is accepted at <strong>AISTATS 2023.</strong></li>
- 	<li><strong>January 2023: </strong>"<a href="https://openreview.net/forum?id=c9lAOPvQHS" target="_blank" rel="noopener">Fisher-Legendre (FishLeg) optimization of deep neural networks</a>" is accepted at <strong>ICLR 2023.</strong></li>
- 	<li><strong>December 2022: </strong>Presenting "<a href="https://opt-ml.org/papers/2022/paper26.pdf" target="_blank" rel="noopener">Gradient Descent: Robustness to Adversarial Corruption</a>" at OPT2022 workshop at <strong>NeurIPS 2022</strong>, New Orleans.</li>
- 	<li><strong>October 2022:</strong> "<a href="https://openreview.net/forum?id=2xfJ26BuFP" target="_blank" rel="noopener">Near-Optimal Collaborative Learning in Bandits</a>" has been designated as an <span class="il"><strong>Oral</strong> presentation</span>  at <strong>NeurIPS 2022. </strong></li>
- 	<li><strong>July 2022:</strong> Presenting an <a href="https://arxiv.org/abs/2002.05096" target="_blank" rel="noopener">open problem</a> on noise-free kernel-based bandit at <strong>COLT 2022</strong>, London.</li>
- 	<li><strong>May 2022: </strong>"<a href="https://arxiv.org/abs/2206.00099" target="_blank" rel="noopener">Provably and Practically Efficient Neural Contextual Bandits</a>" is available on arXiv.</li>
- 	<li><strong>May 2022: </strong>"<a href="https://arxiv.org/abs/2206.00121" target="_blank" rel="noopener">Near-Optimal Collaborative Learning in Bandits</a>" is available on arXiv.</li>
- 	<li><strong>May 2022: </strong>"<a href="https://proceedings.mlr.press/v162/vakili22a.html" target="_blank" rel="noopener">Improved Convergence Rates for Sparse Approximation Methods in Kernel-Based Learning</a>" is accepted at <strong>ICML 2022 </strong>for a<strong> Spotlight </strong>presentation.</li>
- 	<li><strong>October 2021:  </strong>"<a href="https://papers.nips.cc/paper/2021/hash/2c7f9ccb5a39073e24babc3a4cb45e60-Abstract.html" target="_blank" rel="noopener">Scalable Thompson Sampling using Sparse Gaussian Process Models</a>" is accepted at <strong>NeurIPS 2021.</strong></li>
- 	<li><strong>October 2021:  </strong>"<a href="https://papers.nips.cc/paper/2021/hash/f19fec2f129fbdba76493451275c883a-Abstract.html" target="_blank" rel="noopener">A Domain-Shrinking based Bayesian Optimization Algorithm with Order-Optimal Regret Performance</a>" is accepted at <strong>NeurIPS 2021.</strong></li>
- 	<li><strong>October 2021:  </strong>"<a href="https://papers.nips.cc/paper/2021/hash/b1300291698eadedb559786c809cc592-Abstract.html" target="_blank" rel="noopener">Optimal Order Simple Regret for Gaussian Process Bandits</a>" is accepted at <strong>NeurIPS 2021.</strong></li>
- 	<li><strong>August 2021: </strong>Moderating the "Bandits, RL and Control" session at <strong>COLT 2021</strong>.</li>
- 	<li><strong>August 2021: </strong>Presenting "<a href="https://proceedings.mlr.press/v134/open-problem-vakili21a.html">Tight Online Confidence Intervals for RKHS Elements</a>" at <strong>COLT 2021</strong>.</li>
- 	<li><strong>January 2021: </strong>"<span class=" aw5Odc"><a class="XqQF9c" href="https://proceedings.mlr.press/v130/vakili21a.html" target="_blank" rel="noopener">On Information Gain and Regret Bounds in Gaussian Process Bandits</a></span>" is accepted to be presented at <span class=" aw5Odc"><strong>AIStats 2021</strong></span>.</li>
-</ul>
-
-
-
+  <h2 id="latest">Latest</h2>
+  <ul class="latest">
+    <li><strong>October 2025:</strong> Gave an invited talk on "Decision-Making Under Uncertainty: AI with Human-in-the-Loop Perspective" at the Workshop on Causal AI in Healthcare Policy & Practice, Oxford University.</li>
+    <li><strong>August 2025:</strong> <a href="https://www.biorxiv.org/content/10.1101/2025.06.24.661094v3.full" target="_blank" rel="noopener">Mapping and reprogramming human tissue microenvironments with MintFlow</a> is under review at <strong>Nature</strong>.</li>
+    <li><strong>June 2025:</strong> Reinforcement Learning with Thompson Sampling: No-Regret Performance over Finite Horizons is accepted to be presented at the <strong>ICML 2025</strong> workshop <a href="https://exait-workshop.github.io/" target="_blank" rel="noopener">Exploration in AI Today</a>.</li>
+    <li><strong>June 2025:</strong> <a href="https://arxiv.org/abs/2505.14603" target="_blank" rel="noopener">Towards a Foundation Model for Communication Systems</a> is accepted to be presented at the <strong>ICML 2025</strong> workshop <a href="https://sites.google.com/uniroma1.it/ml4wireless/" target="_blank" rel="noopener">ML for wireless communication and networks</a>.</li>
+    <li><strong>May 2025:</strong> <a href="https://arxiv.org/abs/2505.23673" target="_blank" rel="noopener">Bayesian Optimization from Human Feedback: Near-Optimal Regret Bounds</a> is accepted at <strong>ICML 2025</strong>.</li>
+    <li><strong>May 2025:</strong> Will be giving a tutorial on Foundation Models for Communication Systems at IEEE GLOBECOM, December 2025, Taipei.</li>
+    <li><strong>March 2025:</strong> Giving a <a href="https://talks.cam.ac.uk/talk/index/221086" target="_blank" rel="noopener">Tech Talk</a> on AI and Communication at Cambridge University, Mar 10th.</li>
+    <li><strong>February 2025:</strong> Giving a <a href="assets/OxCSML_presentation_web.pdf" target="_blank" rel="noopener">presentation</a> at the <a href="https://csml.stats.ox.ac.uk/" target="_blank" rel="noopener">Computational Statistics and Machine Learning (OxCSML) seminar series</a>, Oxford University, Feb 21st.</li>
+    <li><strong>January 2025:</strong> <a href="https://openreview.net/forum?id=DgbY2CuyhW" target="_blank" rel="noopener">Near-Optimal Sample Complexity in Reward-Free Reinforcement Learning</a> is accepted at <strong>AISTATS 2025</strong>.</li>
+    <li><strong>December 2024:</strong> Presenting <a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/2d0842550e6d92b0e27e7e810b1a4792-Abstract-Conference.html" target="_blank" rel="noopener">our NeurIPS paper</a> at <a href="https://www.neuripsmeetupatcambridge.info/home" target="_blank" rel="noopener">local meetup</a>, Cambridge University, Dec 6th.</li>
+    <li><strong>October 2024:</strong> <a href="https://arxiv.org/abs/2410.23498" target="_blank" rel="noopener">Kernel-Based Function Approximation for Average Reward Reinforcement Learning: An Optimist No-Regret Algorithm</a> is accepted at <strong>NeurIPS 2024</strong>.</li>
+    <li><strong>October 2024:</strong> <a href="https://arxiv.org/abs/2302.08436" target="_blank" rel="noopener">Trieste: Efficiently Exploring The Depths of Black-box Functions with TensorFlow</a> is accepted at <strong>NeurIPS 2024</strong> Workshop on Bayesian Decision-making and Uncertainty.</li>
+    <li><strong>September 2024:</strong> <a href="https://arxiv.org/abs/2310.01609" target="_blank" rel="noopener">Adversarial Contextual Bandits Go Kernelized</a> will be presented at European Workshop on Reinforcement Learning (EWRL 2024).</li>
+    <li><strong>September 2024:</strong> <a href="https://arxiv.org/abs/2410.23498" target="_blank" rel="noopener">Kernel-Based Function Approximation for Average Reward Reinforcement Learning: An Optimist No-Regret Algorithm</a> will be presented at European Workshop on Reinforcement Learning (EWRL 2024).</li>
+    <li><strong>July 2024:</strong> Giving a tutorial on <strong><a href="https://www.auai.org/uai2024/tutorials" target="_blank" rel="noopener">Recent Advances of Statistical Reinforcement Learning</a></strong> at Uncertainty in Artificial Intelligence (UAI) 2024, July 15th in Barcelona. <strong>[<a href="assets/UAI2024_RL_tutorial.pdf" target="_blank" rel="noopener">Download the slides here</a>]</strong></li>
+    <li><strong>June 2024:</strong> Involved in organizing <strong><a href="https://www.icml-meetup-london.info" target="_blank" rel="noopener">a local ICML meetup on July 12th in London</a></strong>. A great opportunity to present your work, learn, and grow your network.</li>
+    <li><strong>June 2024:</strong> <a href="https://arxiv.org/abs/2406.15250" target="_blank" rel="noopener">Open Problem: Order Optimal Regret Bounds for Kernel-Based Reinforcement Learning</a> is accepted at <strong>COLT 2024</strong>.</li>
+    <li><strong>June 2024:</strong> <a href="https://openreview.net/pdf?id=QTt2xJI8vk" target="_blank" rel="noopener">Reward-Free Kernel-Based Reinforcement Learning</a> is accepted at <strong>ICML 2024</strong>.</li>
+    <li><strong>June 2024:</strong> <a class="gsc_oci_title_link" href="https://arxiv.org/abs/2310.15351" target="_blank" rel="noopener">Random Exploration in Bayesian Optimization: Order-Optimal Regret and Computational Efficiency</a> is accepted at <strong>ICML 2024</strong>.</li>
+    <li><strong>April 2024:</strong> Giving a tutorial on <a href="https://www.auai.org/uai2024/tutorials" target="_blank" rel="noopener">Recent Advances of Statistical Reinforcement Learning</a> at Uncertainty in Artificial Intelligence (UAI) 2024, July 15th in Barcelona.</li>
+    <li><strong>December 2023:</strong> <a href="https://arxiv.org/abs/2312.09674" target="_blank" rel="noopener">Optimal Regret Bounds for Collaborative Learning in Bandits</a> is accepted at Algorithmic Learning Theory (ALT) 2024.</li>
+    <li><strong>December 2023:</strong> <a href="https://arxiv.org/abs/2310.01609" target="_blank" rel="noopener">Adversarial Contextual Bandits Go Kernelized</a> is accepted at Algorithmic Learning Theory (ALT) 2024.</li>
+    <li><strong>December 2023:</strong> Presenting <a href="https://arxiv.org/abs/2306.07745" target="_blank" rel="noopener">our NeurIPS paper</a> at <a href="https://www.neuripsmeetupcambridge.info/home" target="_blank" rel="noopener">local meetup</a>, Cambridge University, Dec 8th.</li>
+    <li><strong>October 2023:</strong> <a href="https://arxiv.org/abs/2207.07948" target="_blank" rel="noopener">Collaborative Learning in Kernel-based Bandits for Distributed Users</a> is accepted at IEEE Transactions on Signal Processing.</li>
+    <li><strong>October 2023:</strong> Giving a talk at the <a href="https://team.inria.fr/scool/" target="_blank" rel="noopener">Inria Scool</a> seminar series at University of Lille.</li>
+    <li><strong>October 2023:</strong> <a href="https://arxiv.org/abs/2310.01609" target="_blank" rel="noopener">Adversarial Contextual Bandits Go Kernelized</a> is available on arXiv.</li>
+    <li><strong>September 2023:</strong> <a href="https://arxiv.org/abs/2306.07745" target="_blank" rel="noopener">Kernelized Reinforcement Learning with Order Optimal Regret Bounds</a> is accepted at <strong>NeurIPS 2023</strong>.</li>
+    <li><strong>August 2023:</strong> <a href="https://arxiv.org/abs/2308.05583" target="_blank" rel="noopener">Generative Diffusion Models for Radio Wireless Channel Modelling and Sampling</a> is accepted at <a href="https://globecom2023.ieee-globecom.org/" target="_blank" rel="noopener">GLOBECOM 2023</a>.</li>
+    <li><strong>August 2023:</strong> <a href="https://arxiv.org/abs/2306.07745" target="_blank" rel="noopener">Kernelized Reinforcement Learning with Order Optimal Regret Bounds</a> is accepted at <a href="https://ewrl.wordpress.com/ewrl16-2023/" target="_blank" rel="noopener">EWRL 2023</a>.</li>
+    <li><strong>August 2023:</strong> Check out <a href="https://proceedings.mlr.press/v195/lattimore23b.html" target="_blank" rel="noopener">Tor Lattimore's response</a> to the <a href="https://proceedings.mlr.press/v134/open-problem-vakili21a.html" target="_blank" rel="noopener">open problem</a> on online confidence intervals for RKHS elements.</li>
+    <li><strong>July 2023:</strong> Giving an <a href="https://www.youtube.com/watch?v=lHqe8oa2VWU&amp;ab_channel=HadiAmini" target="_blank" rel="noopener">online lecture</a> at FeDucation seminar series (Florida International University).</li>
+    <li><strong>June 2023:</strong> Giving a <a href="https://ucl-ellis.github.io/dm_csml_seminars/2023-06-23-Vakili/" target="_blank" rel="noopener">seminar</a> on <a href="https://arxiv.org/pdf/2306.07745.pdf">kernel-based reinforcement learning</a> at DeepMind/ELLIS CSML seminar series.</li>
+    <li><strong>June 2023:</strong> Presenting <a href="https://arxiv.org/abs/2109.06099" target="_blank" rel="noopener">Information Gain and Uniform Generalization Bounds for Neural Kernel Models</a> at ISIT 2023, Taipei.</li>
+    <li><strong>May 2023:</strong> Giving an invited talk on kernel-based RL at the <a href="https://www.ucl.ac.uk/ai-centre/lsit-2023-seventh-london-symposium-information-theory">London Symposium on Information Theory</a>.</li>
+    <li><strong>April 2023:</strong> "<a class="gsc_a_at" href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=N9xs8w0AAAAJ&amp;sortby=pubdate&amp;citation_for_view=N9xs8w0AAAAJ:iH-uZ7U-co4C" target="_blank" rel="noopener">Delayed Feedback in Kernel Bandits</a>" is accepted at <strong>ICML 2023</strong>.</li>
+    <li><strong>April 2023:</strong> "<a class="gsc_oci_title_link" href="https://arxiv.org/abs/2206.00099" target="_blank" rel="noopener">Provably and Practically Efficient Neural Contextual Bandits</a>" is accepted at <strong>ICML 2023</strong>.</li>
+    <li><strong>April 2023:</strong> "<a href="https://arxiv.org/abs/2306.00501" target="_blank" rel="noopener">Image generation with shortest path diffusion</a>" is accepted at <strong>ICML 2023</strong>.</li>
+    <li><strong>February 2023:</strong> "<a href="https://arxiv.org/abs/2302.00392" target="_blank" rel="noopener">Delayed Feedback in Kernel Bandits</a>" is available on arXiv.</li>
+    <li><strong>January 2023:</strong> "<a href="https://arxiv.org/abs/2302.00727" target="_blank" rel="noopener">Sample Complexity of Kernel-Based Q-Learning</a>" is accepted at <strong>AISTATS 2023</strong>.</li>
+    <li><strong>January 2023:</strong> "<a href="https://openreview.net/forum?id=c9lAOPvQHS" target="_blank" rel="noopener">Fisher-Legendre (FishLeg) optimization of deep neural networks</a>" is accepted at <strong>ICLR 2023</strong>.</li>
+    <li><strong>December 2022:</strong> Presenting "<a href="https://opt-ml.org/papers/2022/paper26.pdf" target="_blank" rel="noopener">Gradient Descent: Robustness to Adversarial Corruption</a>" at OPT 2022 workshop at <strong>NeurIPS 2022</strong>, New Orleans.</li>
+    <li><strong>October 2022:</strong> "<a href="https://openreview.net/forum?id=2xfJ26BuFP" target="_blank" rel="noopener">Near-Optimal Collaborative Learning in Bandits</a>" has been designated as an <strong>Oral</strong> presentation at <strong>NeurIPS 2022</strong>.</li>
+    <li><strong>July 2022:</strong> Presenting an <a href="https://arxiv.org/abs/2002.05096" target="_blank" rel="noopener">open problem</a> on noise-free kernel-based bandit at <strong>COLT 2022</strong>, London.</li>
+    <li><strong>May 2022:</strong> "<a href="https://arxiv.org/abs/2206.00099" target="_blank" rel="noopener">Provably and Practically Efficient Neural Contextual Bandits</a>" is available on arXiv.</li>
+    <li><strong>May 2022:</strong> "<a href="https://arxiv.org/abs/2206.00121" target="_blank" rel="noopener">Near-Optimal Collaborative Learning in Bandits</a>" is available on arXiv.</li>
+    <li><strong>May 2022:</strong> "<a href="https://proceedings.mlr.press/v162/vakili22a.html" target="_blank" rel="noopener">Improved Convergence Rates for Sparse Approximation Methods in Kernel-Based Learning</a>" is accepted at <strong>ICML 2022</strong> for a <strong>Spotlight</strong> presentation.</li>
+    <li><strong>October 2021:</strong> "<a href="https://papers.nips.cc/paper/2021/hash/2c7f9ccb5a39073e24babc3a4cb45e60-Abstract.html" target="_blank" rel="noopener">Scalable Thompson Sampling using Sparse Gaussian Process Models</a>" is accepted at <strong>NeurIPS 2021</strong>.</li>
+    <li><strong>October 2021:</strong> "<a href="https://papers.nips.cc/paper/2021/hash/f19fec2f129fbdba76493451275c883a-Abstract.html" target="_blank" rel="noopener">A Domain-Shrinking based Bayesian Optimization Algorithm with Order-Optimal Regret Performance</a>" is accepted at <strong>NeurIPS 2021</strong>.</li>
+    <li><strong>October 2021:</strong> "<a href="https://papers.nips.cc/paper/2021/hash/b1300291698eadedb559786c809cc592-Abstract.html" target="_blank" rel="noopener">Optimal Order Simple Regret for Gaussian Process Bandits</a>" is accepted at <strong>NeurIPS 2021</strong>.</li>
+    <li><strong>August 2021:</strong> Moderating the "Bandits, RL and Control" session at <strong>COLT 2021</strong>.</li>
+    <li><strong>August 2021:</strong> Presenting "<a href="https://proceedings.mlr.press/v134/open-problem-vakili21a.html">Tight Online Confidence Intervals for RKHS Elements</a>" at <strong>COLT 2021</strong>.</li>
+    <li><strong>January 2021:</strong> "<a href="https://proceedings.mlr.press/v130/vakili21a.html" target="_blank" rel="noopener">On Information Gain and Regret Bounds in Gaussian Process Bandits</a>" is accepted to be presented at <strong>AISTATS 2021</strong>.</li>
+  </ul>
+</div>
