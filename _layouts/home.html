@@ -1,26 +1,43 @@
 <!DOCTYPE html>
-<html>
-  {% include head.html %}
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ site.title }}</title>
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&family=JetBrains+Mono:wght@400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  
+  {% seo %}
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-content">
+      <a href="{{ '/' | relative_url }}" class="site-title">{{ site.title }}</a>
+      <nav class="site-nav">
+        <a href="{{ '/' | relative_url }}" class="active">Home</a>
+        <a href="{{ '/publications' | relative_url }}">Publications</a>
+        <a href="{{ '/projects' | relative_url }}">Projects</a>
+        <a href="{{ '/cv' | relative_url }}">CV</a>
+      </nav>
+    </div>
+  </header>
 
-  <body>
-    {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrapper">
-        <div class="home">
-          <img
-            src="{{ page.profile_picture.src | absolute_url }}"
-            alt="{{ page.profile_picture.alt }}"
-            class="profile-pic"
-          />
-
-          {{ content }}
-        </div>
+  <main class="page-content">
+    <div class="home-container">
+      <div class="profile-picture">
+        <img src="{{ page.profile_picture.src | relative_url }}" alt="{{ page.profile_picture.alt }}">
+      </div>
+      <div class="profile-content">
+        {{ content }}
       </div>
     </div>
+  </main>
 
-    {% include footer.html %}
-
-    {% include foot.html %}
-  </body>
+  <footer class="site-footer">
+    <p>&copy; 2025 {{ site.title }} · <a href="mailto:sv388@cornell.edu">sv388@cornell.edu</a></p>
+  </footer>
+</body>
 </html>

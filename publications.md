@@ -1,41 +1,70 @@
-# Selected Publications 
+---
+layout: default
+title: Publications
+---
 
-<ul>
-  <li><a href="https://arxiv.org/abs/2505.23673" target="_blank" rel="noopener">Bayesian Optimization from Human Feedback: Near-Optimal Regret Bounds</a>, ICML 2025</li>
-  <li><a href="https://openreview.net/forum?id=DgbY2CuyhW" target="_blank" rel="noopener">Near-Optimal Sample Complexity in Reward-Free Reinforcement Learning</a>, AISTATS 2025</li>
-  <li><a href="https://arxiv.org/abs/2410.23498" target="_blank" rel="noopener">Kernel-Based Function Approximation for Average Reward Reinforcement Learning: An Optimist No-Regret Algorithm</a>, NeurIPS 2024</li>
-  <li><a href="https://arxiv.org/abs/2406.15250" target="_blank" rel="noopener">Open Problem: Order Optimal Regret Bounds for Kernel-Based Reinforcement Learning</a>, COLT 2024</li>
-  <li><a href="https://openreview.net/pdf?id=QTt2xJI8vk" target="_blank" rel="noopener">Reward-Free Kernel-Based Reinforcement Learning</a>, ICML 2024</li>
-  <li><a href="https://arxiv.org/abs/2310.15351" target="blank" rel="noopener">Random Exploration in Bayesian Optimization: Order-Optimal Regret and Computational Efficiency</a>, ICML 2024</li>
-  <li><a href="https://arxiv.org/abs/2312.09674" target="_blank" rel="noopener">Optimal Regret Bounds for Collaborative Learning in Bandits</a>, Algorithmic Learning Theory (ALT) 2024</li>
-  <li><a href="https://arxiv.org/abs/2310.01609" target="_blank" rel="noopener">Adversarial Contextual Bandits Go Kernelized</a>, Algorithmic Learning Theory (ALT) 2024</li>
-  <li><a href="https://arxiv.org/abs/2306.07745" target="_blank" rel="noopener">Kernelized Reinforcement Learning with Order Optimal Regret Bounds</a>, NeurIPS 2023 (Part of this work was presented at EWRL 2023)</li>
-  <li><a href="https://arxiv.org/abs/2207.07948" target="_blank" rel="noopener">Collaborative Learning in Kernel-based Bandits for Distributed Users</a>, IEEE Transactions on Signal Processing 2023</li>
-  <li><a href="https://arxiv.org/abs/2302.00392" target="_blank" rel="noopener">Delayed Feedback in Kernel Bandits</a>, ICML 2023, <a href="https://icml.cc/virtual/2023/poster/25129" target="_blank" rel="noopener">[presentation]</a></li>
-  <li><a href="https://arxiv.org/abs/2206.00099" target="_blank" rel="noopener">Provably and Practically Efficient Neural Contextual Bandits</a>, ICML 2023</li>
- 	<li><a href="https://arxiv.org/abs/2306.00501" target="_blank" rel="noopener">Image generation with shortest path diffusion</a>, ICML 2023</li>
- 	<li><a href="https://arxiv.org/abs/2302.00727" target="_blank" rel="noopener">Sample Complexity of Kernel-Based Q-Learning</a>, AISTATS 2023</li>
- 	<li><a href="https://openreview.net/forum?id=c9lAOPvQHS" target="_blank" rel="noopener">Fisher-Legendre (FishLeg) optimization of deep neural networks</a>, ICLR 2023</li>
- 	<li><a href="https://arxiv.org/abs/2109.06099" target="_blank" rel="noopener">Uniform generalization bounds for overparameterized neural networks</a>, ISIT 2023</li>
-  <li><a href="https://arxiv.org/abs/2308.05583" target="_blank" rel="noopener">Generative Diffusion Models for Radio Wireless Channel Modelling and Sampling</a>, GLOBECOM 2023</li>
- 	<li><a href="https://arxiv.org/abs/2206.00121" target="_blank" rel="noopener">Near-Optimal Collaborative Learning in Bandits</a>, NeurIPS 2022, <a href="https://slideslive.com/38991256" target="_blank" rel="noopener">[presentation]</a></li>
- 	<li><a href="https://proceedings.mlr.press/v162/vakili22a.html" target="_blank" rel="noopener">Improved convergence rates for sparse approximation methods in kernel-based learning</a>, ICML 2022, <a href="https://slideslive.com/38984224" target="_blank" rel="noopener">[presentation]</a></li>
- 	<li><a href="https://proceedings.mlr.press/v130/vakili21a.html" target="_blank" rel="noopener">On Information Gain and Regret Bounds in GP Bandits</a>, AISTATS 2021, <a href="https://sites.coecis.cornell.edu/sattarvakili/files/2022/02/Paper1_short_presentation_AISTATS2021_Sattar.pdf" target="_blank" rel="noopener">[slides]</a>, <a href="https://slideslive.com/38952928" target="_blank" rel="noopener">[presentation]</a></li>
- 	<li><a href="https://proceedings.neurips.cc/paper/2021/hash/b1300291698eadedb559786c809cc592-Abstract.html" target="_blank" rel="noopener">Optimal order simple regret for GP bandits</a>, NeurIPS 2021, <a href="https://sites.coecis.cornell.edu/sattarvakili/files/2022/02/Paper2_slides_Neurips2021_Sattar.pdf" target="_blank" rel="noopener">[slides]</a>, <a href="https://nips.cc/virtual/2021/poster/27371" target="_blank" rel="noopener">[presentation]</a></li>
- 	<li><a href="https://proceedings.neurips.cc/paper/2021/hash/2c7f9ccb5a39073e24babc3a4cb45e60-Abstract.html" target="_blank" rel="noopener">Scalable Thompson sampling using sparse Gaussian process models</a>, NeurIPS 2021, <a href="https://sites.coecis.cornell.edu/sattarvakili/files/2022/02/Paper4_slides_Neurips2021_Sattar.pdf">[slides]</a>, <a href="https://nips.cc/virtual/2021/poster/27489">[presentation]</a></li>
- 	<li><a href="https://proceedings.mlr.press/v134/open-problem-vakili21a.html" target="_blank" rel="noopener">Open problem: Tight online confidence intervals for RKHS elements</a>, COLT 2021, <a href="https://sites.coecis.cornell.edu/sattarvakili/files/2022/02/Paper3_slides_COLT2021_Sattar.pdf" target="_blank" rel="noopener">[slides]</a>, <a href="http://www.learningtheory.org/colt2021/virtual/poster_1404.html" target="_blank" rel="noopener">[presentation]</a></li>
- 	<li><a href="https://proceedings.neurips.cc/paper/2021/hash/f19fec2f129fbdba76493451275c883a-Abstract.html" target="_blank" rel="noopener">A domain-shrinking based Bayesian optimization algorithm with orderoptimal regret performance</a>, NeurIPS 2021</li>
- 	<li><a class="gsc_oci_title_link" href="http://proceedings.mlr.press/v119/salgia20a.html" data-clk="hl=en&amp;sa=T&amp;ei=LXFhYqXMIZ-Ny9YPmvWJWA">Stochastic Coordinate Minimization with Progressive Precision for Stochastic Convex Optimization</a>, ICML 2020</li>
- 	<li><a class="gsc_a_at" href="https://proceedings.mlr.press/v124/boustati20a.html">Amortized variance reduction for doubly stochastic objective</a>, UAI 2020</li>
- 	<li><a class="gsc_a_at" href="http://proceedings.mlr.press/v97/grant19a.html">Adaptive sensor placement for continuous spaces</a>, ICML 2019</li>
- 	<li><a class="gsc_a_at" href="https://ieeexplore.ieee.org/abstract/document/8798887">Multi-armed bandits on partially revealed unit interval graphs</a>, IEEE Transactions on Network Science and Engineering 2019</li>
- 	<li><a class="gsc_a_at" href="https://ieeexplore.ieee.org/abstract/document/8849396">A random walk approach to first-order stochastic convex optimization</a>, ISIT 2019</li>
- 	<li><a class="gsc_a_at" href="https://ieeexplore.ieee.org/abstract/document/9029461">Decision variance in risk-averse online learning</a>, CDC 2019</li>
- 	<li><a class="gsc_a_at" href="https://ieeexplore.ieee.org/abstract/document/8461775">Hierarchical heavy hitter detection under unknown models</a>, ICASSP 2018</li>
- 	<li><a class="gsc_a_at" href="https://ieeexplore.ieee.org/abstract/document/8170860">Online learning with side information</a>, MILCOM 2017</li>
- 	<li><a class="gsc_a_at" href="https://ieeexplore.ieee.org/abstract/document/7515237">Risk-averse multi-armed bandit problems under mean-variance measure</a>, Journal of Slected Topic in Signal Processing 2016</li>
- 	<li><a class="gsc_a_at" href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=N9xs8w0AAAAJ&amp;cstart=20&amp;pagesize=80&amp;sortby=pubdate&amp;citation_for_view=N9xs8w0AAAAJ:UeHWp8X0CEIC">Quickest detection of short-term voltage instability with PMU measurements</a>, ICASSP 2015</li>
- 	<li><a class="gsc_oci_title_link" href="https://ieeexplore.ieee.org/abstract/document/7094845/" data-clk="hl=en&amp;sa=T&amp;ei=MYt-Ypq0C_-Vy9YPmJO_-Ak">Time-varying stochastic multi-armed bandit problems</a>, Asilomar 2014</li>
- 	<li><a class="gsc_oci_title_link" href="https://ieeexplore.ieee.org/abstract/document/6516952/" data-clk="hl=en&amp;sa=T&amp;ei=YIt-YteHFP-Vy9YPmJO_-Ak">Deterministic sequencing of exploration and exploitation for multi-armed bandit problems</a>, Journal of Selected Topics in Signal Processing 2013</li>
- 	<li><a class="gsc_oci_title_link" href="https://ieeexplore.ieee.org/abstract/document/6810607/" data-clk="hl=en&amp;sa=T&amp;ei=Xot-YrXsEKHGsQKFu4aYAQ">Achieving complete learning in multi-armed bandit problems</a>, Asilomar 2013</li>
-</ul>
+<h2>Selected Publications</h2>
+
+<p class="scholar-link">Full list on <a href="https://scholar.google.com/citations?user=N9xs8w0AAAAJ&hl=en">Google Scholar</a></p>
+
+<div class="pub-line"><a href="#">No-Regret Thompson Sampling for Finite-Horizon Markov Decision Processes with Gaussian Processes</a>, <span class="pub-venue">NeurIPS 2025</span></div>
+
+<div class="pub-line"><a href="https://arxiv.org/abs/2505.23673">Bayesian Optimization from Human Feedback: Near-Optimal Regret Bounds</a>, <span class="pub-venue">ICML 2025</span></div>
+
+<div class="pub-line"><a href="https://openreview.net/forum?id=DgbY2CuyhW">Near-Optimal Sample Complexity in Reward-Free Reinforcement Learning</a>, <span class="pub-venue">AISTATS 2025</span></div>
+
+<div class="pub-line"><a href="https://arxiv.org/abs/2410.23498">Kernel-Based Function Approximation for Average Reward Reinforcement Learning: An Optimist No-Regret Algorithm</a>, <span class="pub-venue">NeurIPS 2024</span></div>
+
+<div class="pub-line"><a href="https://arxiv.org/abs/2406.15250">Open Problem: Order Optimal Regret Bounds for Kernel-Based Reinforcement Learning</a>, <span class="pub-venue">COLT 2024</span></div>
+
+<div class="pub-line"><a href="https://openreview.net/pdf?id=QTt2xJI8vk">Reward-Free Kernel-Based Reinforcement Learning</a>, <span class="pub-venue">ICML 2024</span></div>
+
+<div class="pub-line"><a href="https://arxiv.org/abs/2310.15351">Random Exploration in Bayesian Optimization: Order-Optimal Regret and Computational Efficiency</a>, <span class="pub-venue">ICML 2024</span></div>
+
+<div class="pub-line"><a href="https://arxiv.org/abs/2312.09674">Optimal Regret Bounds for Collaborative Learning in Bandits</a>, <span class="pub-venue">ALT 2024</span></div>
+
+<div class="pub-line"><a href="https://arxiv.org/abs/2310.01609">Adversarial Contextual Bandits Go Kernelized</a>, <span class="pub-venue">ALT 2024</span></div>
+
+<div class="pub-line"><a href="https://arxiv.org/abs/2306.07745">Kernelized Reinforcement Learning with Order Optimal Regret Bounds</a>, <span class="pub-venue">NeurIPS 2023</span></div>
+
+<div class="pub-line"><a href="https://arxiv.org/abs/2207.07948">Collaborative Learning in Kernel-based Bandits for Distributed Users</a>, <span class="pub-venue">IEEE Trans. Signal Processing 2023</span></div>
+
+<div class="pub-line"><a href="https://arxiv.org/abs/2302.00392">Delayed Feedback in Kernel Bandits</a>, <span class="pub-venue">ICML 2023</span></div>
+
+<div class="pub-line"><a href="https://arxiv.org/abs/2206.00099">Provably and Practically Efficient Neural Contextual Bandits</a>, <span class="pub-venue">ICML 2023</span></div>
+
+<div class="pub-line"><a href="https://arxiv.org/abs/2306.00501">Image Generation with Shortest Path Diffusion</a>, <span class="pub-venue">ICML 2023</span></div>
+
+<div class="pub-line"><a href="https://arxiv.org/abs/2302.00727">Sample Complexity of Kernel-Based Q-Learning</a>, <span class="pub-venue">AISTATS 2023</span></div>
+
+<div class="pub-line"><a href="https://openreview.net/forum?id=c9lAOPvQHS">Fisher-Legendre (FishLeg) Optimization of Deep Neural Networks</a>, <span class="pub-venue">ICLR 2023</span></div>
+
+<div class="pub-line"><a href="https://arxiv.org/abs/2109.06099">Uniform Generalization Bounds for Overparameterized Neural Networks</a>, <span class="pub-venue">ISIT 2023</span></div>
+
+<div class="pub-line"><a href="https://arxiv.org/abs/2308.05583">Generative Diffusion Models for Radio Wireless Channel Modelling and Sampling</a>, <span class="pub-venue">GLOBECOM 2023</span></div>
+
+<div class="pub-line"><a href="https://arxiv.org/abs/2206.00121">Near-Optimal Collaborative Learning in Bandits</a>, <span class="pub-venue">NeurIPS 2022 (Oral)</span></div>
+
+<div class="pub-line"><a href="https://proceedings.mlr.press/v162/vakili22a.html">Improved Convergence Rates for Sparse Approximation Methods in Kernel-Based Learning</a>, <span class="pub-venue">ICML 2022 (Spotlight)</span></div>
+
+<div class="pub-line"><a href="https://proceedings.mlr.press/v130/vakili21a.html">On Information Gain and Regret Bounds in Gaussian Process Bandits</a>, <span class="pub-venue">AISTATS 2021</span></div>
+
+<div class="pub-line"><a href="https://proceedings.neurips.cc/paper/2021/hash/b1300291698eadedb559786c809cc592-Abstract.html">Optimal Order Simple Regret for Gaussian Process Bandits</a>, <span class="pub-venue">NeurIPS 2021</span></div>
+
+<div class="pub-line"><a href="https://proceedings.neurips.cc/paper/2021/hash/2c7f9ccb5a39073e24babc3a4cb45e60-Abstract.html">Scalable Thompson Sampling using Sparse Gaussian Process Models</a>, <span class="pub-venue">NeurIPS 2021</span></div>
+
+<div class="pub-line"><a href="https://proceedings.mlr.press/v134/open-problem-vakili21a.html">Open Problem: Tight Online Confidence Intervals for RKHS Elements</a>, <span class="pub-venue">COLT 2021</span></div>
+
+<div class="pub-line"><a href="https://proceedings.neurips.cc/paper/2021/hash/f19fec2f129fbdba76493451275c883a-Abstract.html">A Domain-Shrinking based Bayesian Optimization Algorithm with Order-Optimal Regret Performance</a>, <span class="pub-venue">NeurIPS 2021</span></div>
+
+<div class="pub-line"><a href="http://proceedings.mlr.press/v119/salgia20a.html">Stochastic Coordinate Minimization with Progressive Precision for Stochastic Convex Optimization</a>, <span class="pub-venue">ICML 2020</span></div>
+
+<div class="pub-line"><a href="https://proceedings.mlr.press/v124/boustati20a.html">Amortized Variance Reduction for Doubly Stochastic Objective</a>, <span class="pub-venue">UAI 2020</span></div>
+
+<div class="pub-line"><a href="http://proceedings.mlr.press/v97/grant19a.html">Adaptive Sensor Placement for Continuous Spaces</a>, <span class="pub-venue">ICML 2019</span></div>
+
+<div class="pub-line"><a href="https://ieeexplore.ieee.org/abstract/document/8798887">Multi-armed Bandits on Partially Revealed Unit Interval Graphs</a>, <span class="pub-venue">IEEE Trans. Network Science and Engineering 2019</span></div>
+
+<div class="pub-line"><a href="https://ieeexplore.ieee.org/abstract/document/7515237">Risk-Averse Multi-Armed Bandit Problems Under Mean-Variance Measure</a>, <span class="pub-venue">IEEE J. Selected Topics in Signal Processing 2016</span></div>
+
+<div class="pub-line"><a href="https://ieeexplore.ieee.org/abstract/document/6516952/">Deterministic Sequencing of Exploration and Exploitation for Multi-Armed Bandit Problems</a>, <span class="pub-venue">IEEE J. Selected Topics in Signal Processing 2013</span></div>
