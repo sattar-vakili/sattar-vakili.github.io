@@ -52,7 +52,7 @@ title: CV
   <div class="cv-content">
     <strong>Postdoctoral Research Associate</strong>
     <span class="cv-org">Princeton University</span>
-    <div class="cv-detail">Advisor: Prof. Mung Chiang, President of Purdue University</div>
+    <div class="cv-detail">Advisor: Prof. Mung Chiang, now President of Purdue University</div>
   </div>
 </div>
 
@@ -79,9 +79,7 @@ title: CV
 
 <div class="cv-list">
   <div class="cv-list-item"><strong>Area Chair:</strong> ICML 2026, EMNLP 2025</div>
-  <div class="cv-list-item"><strong>Reviewer:</strong> NeurIPS, ICML, ICLR, AISTATS, COLT, AAAI, JMLR, TMLR, ALT, IEEE journals and conferences</div>
-  <div class="cv-list-item"><strong>NeurIPS Top Reviewer:</strong> 2020, 2021</div>
-  <div class="cv-list-item"><strong>Session Chair:</strong> COLT 2021 (RL and Bandits)</div>
+  <div class="cv-list-item"><strong>Reviewer:</strong> NeurIPS, ICML, ICLR, AISTATS, COLT, AAAI, JMLR, TMLR, ALT, IEEE journals and conferences. NeurIPS Top Reviewer (2020, 2021). Session Chair, COLT 2021 (RL and Bandits).</div>
   <div class="cv-list-item"><strong>Chair:</strong> Pre-ICML London Meetup 2025, with UCL and ELLIS</div>
   <div class="cv-list-item"><strong>Co-organiser:</strong> Pre-ICML London Meetup 2024, with UCL and ELLIS</div>
   <div class="cv-list-item"><strong>Sponsorship:</strong> Lead MediaTek sponsorship of NeurIPS@Cambridge 2024</div>
@@ -178,7 +176,7 @@ title: CV
   <div class="cv-date"></div>
   <div class="cv-content">
     <strong>Jasmine Bayrooti</strong> (PhD, University of Cambridge)<br>
-    Led to 1 publication (NeurIPS 2025)
+    Led to NeurIPS 2025 publication
   </div>
 </div>
 
@@ -186,7 +184,7 @@ title: CV
   <div class="cv-date"></div>
   <div class="cv-content">
     <strong>Aya Kayal</strong> (Research Intern, MediaTek; PhD student, UCL)<br>
-    Led to 2 publications (AISTATS 2025, ICML 2025)<br>
+    Led to AISTATS 2025 and ICML 2025 publications<br>
     <span class="cv-position">Current position: Assistant Professor, American University of Beirut</span>
   </div>
 </div>
@@ -195,7 +193,7 @@ title: CV
   <div class="cv-date"></div>
   <div class="cv-content">
     <strong>Julia Olkhovskaya</strong> (Postdoctoral Researcher, VU Amsterdam)<br>
-    Led to 3 publications (NeurIPS 2023, NeurIPS 2024, ALT 2024)<br>
+    Led to NeurIPS 2023, NeurIPS 2024, and ALT 2024 publications<br>
     <span class="cv-position">Current position: Assistant Professor, TU Delft</span>
   </div>
 </div>
@@ -204,7 +202,7 @@ title: CV
   <div class="cv-date"></div>
   <div class="cv-content">
     <strong>Amitis Shidani</strong> (PhD, University of Oxford)<br>
-    Led to 1 publication (ALT 2024)<br>
+    Led to ALT 2024 publication<br>
     <span class="cv-position">Current position: AI Researcher, Apple</span>
   </div>
 </div>
@@ -213,7 +211,7 @@ title: CV
   <div class="cv-date"></div>
   <div class="cv-content">
     <strong>Sudeep Salgia</strong> (PhD, Cornell University)<br>
-    Led to 5 publications (Allerton 2019, ICML 2020, NeurIPS 2021, ICML 2023, IEEE TSP 2023)<br>
+    Led to Allerton 2019, ICML 2020, NeurIPS 2021, ICML 2023, and IEEE TSP 2023 publications<br>
     <span class="cv-position">Current position: AI Researcher, Meta</span>
   </div>
 </div>
@@ -222,7 +220,7 @@ title: CV
   <div class="cv-date"></div>
   <div class="cv-content">
     <strong>Sing-Yuan Yeh, Fu-Chieh Chang, Chang-Wei Yueh</strong> (MSc students, National Taiwan University)<br>
-    Led to 1 publication (AISTATS 2023)
+    Led to AISTATS 2023 publication
   </div>
 </div>
 
@@ -230,7 +228,7 @@ title: CV
   <div class="cv-date"></div>
   <div class="cv-content">
     <strong>Danyal Ahmed</strong> (Research Intern, MediaTek; University of Cambridge)<br>
-    Led to 1 publication (ICML 2023, Oral presentation)
+    Led to ICML 2023 (Oral) publication
   </div>
 </div>
 
@@ -238,7 +236,7 @@ title: CV
   <div class="cv-date"></div>
   <div class="cv-content">
     <strong>Clémence Réda</strong> (PhD, Paris 13 / Paris Cité)<br>
-    Led to 1 publication (NeurIPS 2022, Oral)<br>
+    Led to NeurIPS 2022 (Oral) publication<br>
     <span class="cv-position">Current position: Researcher, CNRS–IBENS</span>
   </div>
 </div>
@@ -247,7 +245,7 @@ title: CV
   <div class="cv-date"></div>
   <div class="cv-content">
     <strong>Nacime Bouziani</strong> (Research Intern, MediaTek; Imperial College London)<br>
-    Led to 1 publication (NeurIPS 2021)<br>
+    Led to NeurIPS 2021 publication<br>
     <span class="cv-position">Current position: AI Scientist, Amazon</span>
   </div>
 </div>
@@ -256,7 +254,7 @@ title: CV
   <div class="cv-date"></div>
   <div class="cv-content">
     <strong>Ayman Boustati</strong> (Research Intern, Secondmind; University of Warwick)<br>
-    Led to 1 publication (UAI 2020) and 1 patent application
+    Led to UAI 2020 publication and patent application
   </div>
 </div>
 
@@ -264,6 +262,6 @@ title: CV
   <div class="cv-date"></div>
   <div class="cv-content">
     <strong>Xiao Xu</strong> (PhD, Cornell University)<br>
-    Led to 1 publication (IEEE TNSE 2019)
+    Led to IEEE TNSE 2019 publication
   </div>
 </div>
