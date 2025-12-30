@@ -41,8 +41,10 @@ profile_picture:
 
 <section class="latest">
   <h2>Latest</h2>
+
+  <div class="news-line"><span class="news-date">Oct 2025:</span> <a href="https://arxiv.org/abs/2510.20725">No-Regret Thompson Sampling for Finite-Horizon Markov Decision Processes with Gaussian Processes</a> is accepted at <strong>NeurIPS 2025</strong>.</div>
   
-  <div class="news-line"><span class="news-date">Oct 2025:</span> Invited talk on "Decision-Making Under Uncertainty: AI with Human-in-the-Loop Perspective" at the Workshop on Causal AI in Healthcare Policy & Practice, Oxford University.</div>
+  <div class="news-line"><span class="news-date">Oct 2025:</span> Invited talk on <strong>Decision-Making Under Uncertainty: AI with Human-in-the-Loop Perspective</strong>strong at the Workshop on Causal AI in Healthcare Policy & Practice, Oxford University.</div>
   
   <div class="news-line"><span class="news-date">Aug 2025:</span> <a href="https://www.biorxiv.org/content/10.1101/2025.06.24.661094v3.full">Mapping and reprogramming human tissue microenvironments with MintFlow</a> is under review at <strong>Nature</strong>.</div>
   
