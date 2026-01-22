@@ -42,6 +42,8 @@ profile_picture:
 <section class="latest">
   <h2>Latest</h2>
 
+<div class="news-line"><span class="news-date">Jan 2026:</span> <a href="https://arxiv.org/abs/2511.03473" target="_blank">Reinforcement Learning Using Known Invariances</a> is accepted at <strong>AISTATS 2026</strong>.</div>
+
   <div class="news-line"><span class="news-date">Oct 2025:</span> <a href="https://arxiv.org/abs/2510.20725" target="_blank">No-Regret Thompson Sampling for Finite-Horizon Markov Decision Processes with Gaussian Processes</a> is accepted at <strong>NeurIPS 2025</strong>.</div>
   
   <div class="news-line"><span class="news-date">Oct 2025:</span> Invited talk on <strong>Decision-Making Under Uncertainty: AI with Human-in-the-Loop Perspective</strong> at the Workshop on Causal AI in Healthcare Policy & Practice, Oxford University.</div>
