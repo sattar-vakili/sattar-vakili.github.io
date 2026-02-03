@@ -7,6 +7,10 @@ title: Publications
 
 <p class="scholar-link">Full list on <a href="https://scholar.google.com/citations?user=N9xs8w0AAAAJ&hl=en" target="_blank">Google Scholar</a></p>
 
+<div class="pub-line">A Finite Time Analysis of Thompson Sampling for Bayesian Optimization with Preferential Feedback, <span class="pub-venue">AISTATS 2026</span></div>
+
+<div class="pub-line"><a href="https://arxiv.org/abs/2511.03473" target="_blank">Reinforcement Learning Using Known Invariances</a>, <span class="pub-venue">AISTATS 2026</span></div>
+
 <div class="pub-line"><a href="https://arxiv.org/abs/2510.20725" target="_blank">No-Regret Thompson Sampling for Finite-Horizon Markov Decision Processes with Gaussian Processes</a>, <span class="pub-venue">NeurIPS 2025</span></div>
 
 <div class="pub-line"><a href="https://arxiv.org/abs/2505.23673" target="_blank">Bayesian Optimization from Human Feedback: Near-Optimal Regret Bounds</a>, <span class="pub-venue">ICML 2025</span></div>
