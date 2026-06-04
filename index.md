@@ -13,6 +13,7 @@ profile_picture:
   </p>
   <p class="secondary">
     Visiting Researcher · <a href="https://www.sanger.ac.uk/" target="_blank">Wellcome Sanger Institute</a><br>
+    College Advisor · <a href="https://www.kellogg.ox.ac.uk/" target="_blank">Kellogg College, University of Oxford</a><br>
     PhD (ECE) · Cornell University
   </p>
   
