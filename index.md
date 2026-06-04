@@ -42,6 +42,8 @@ profile_picture:
 <section class="latest">
   <h2>Latest</h2>
 
+<div class="news-line"><span class="news-date">May 2026:</span> <a href="https://arxiv.org/abs/2605.10196" target="_blank">Many Needles in a Haystack: Active Hit Discovery for Perturbation Experiments</a> is accepted at <strong>ICML 2026</strong>.</div>
+
 <div class="news-line"><span class="news-date">Jan 2026:</span> A Finite Time Analysis of Thompson Sampling for Bayesian Optimization with Preferential Feedback is accepted at <strong>AISTATS 2026</strong>.</div>
 
 <div class="news-line"><span class="news-date">Jan 2026:</span> <a href="https://arxiv.org/abs/2511.03473" target="_blank">Reinforcement Learning Using Known Invariances</a> is accepted at <strong>AISTATS 2026</strong>.</div>
