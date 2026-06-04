@@ -16,7 +16,7 @@ title: CV
 </div>
 
 <div class="cv-entry">
-  <div class="cv-date">2025–present</div>
+  <div class="cv-date">2026–present</div>
   <div class="cv-content">
     <strong>College Advisor</strong>
     <span class="cv-org">Kellogg College, University of Oxford</span>
@@ -57,6 +57,7 @@ title: CV
     <div class="cv-detail">Advisor: Prof. Mung Chiang, now President of Purdue University</div>
   </div>
 </div>
+
 <h2>Education</h2>
 
 <div class="cv-entry">
@@ -79,7 +80,7 @@ title: CV
 <h2>Professional Service & Community</h2>
 
 <div class="cv-list">
-  <div class="cv-list-item"><strong>Area Chair:</strong> ICML 2026, EMNLP 2025</div>
+  <div class="cv-list-item"><strong>Area Chair:</strong> NeurIPS 2026, ICML 2026, EMNLP 2025</div>
   <div class="cv-list-item"><strong>Reviewer:</strong> NeurIPS, ICML, ICLR, AISTATS, COLT, AAAI, JMLR, TMLR, ALT, IEEE journals and conferences. NeurIPS Top Reviewer (2020, 2021). Session Chair, COLT 2021 (RL and Bandits).</div>
   <div class="cv-list-item"><strong>Chair:</strong> Pre-ICML London Meetup 2025, with UCL and ELLIS</div>
   <div class="cv-list-item"><strong>Co-organiser:</strong> Pre-ICML London Meetup 2024, with UCL and ELLIS</div>
