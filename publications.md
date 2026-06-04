@@ -7,6 +7,8 @@ title: Publications
 
 <p class="scholar-link">Full list on <a href="https://scholar.google.com/citations?user=N9xs8w0AAAAJ&hl=en" target="_blank">Google Scholar</a></p>
 
+<div class="pub-line"><a href="https://arxiv.org/abs/2605.10196" target="_blank">Many Needles in a Haystack: Active Hit Discovery for Perturbation Experiments</a>, <span class="pub-venue">ICML 2026</span></div>
+
 <div class="pub-line"><a href="https://arxiv.org/abs/2604.25025" target="_blank">A Finite Time Analysis of Thompson Sampling for Bayesian Optimization with Preferential Feedback</a>, <span class="pub-venue">AISTATS 2026</span></div>
 
 <div class="pub-line"><a href="https://arxiv.org/abs/2511.03473" target="_blank">Reinforcement Learning Using Known Invariances</a>, <span class="pub-venue">AISTATS 2026</span></div>
