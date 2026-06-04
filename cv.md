@@ -7,20 +7,28 @@ title: CV
 <h2>Appointments</h2>
 
 <div class="cv-entry">
-  <div class="cv-date">2025–present</div>
-  <div class="cv-content">
-    <strong>Visiting Researcher</strong>
-    <span class="cv-org">Wellcome Sanger Institute, Cambridge, UK</span>
-    <div class="cv-detail">Research in AI for genomics and experimental design, focusing on probabilistic modelling, generative approaches, and lab-in-the-loop methodologies.</div>
-  </div>
-</div>
-
-<div class="cv-entry">
   <div class="cv-date">2023–present</div>
   <div class="cv-content">
     <strong>Principal AI Research Manager</strong>
     <span class="cv-org">MediaTek Research, Cambridge, UK</span>
     <div class="cv-detail">Leading research programmes in generative models, RL, and optimisation for communication systems and chip design. Supervising PhD students, postdoctoral researchers, and interns. Contributing to strategic research planning and collaborating with academic groups.</div>
+  </div>
+</div>
+
+<div class="cv-entry">
+  <div class="cv-date">2025–present</div>
+  <div class="cv-content">
+    <strong>College Advisor</strong>
+    <span class="cv-org">Kellogg College, University of Oxford</span>
+  </div>
+</div>
+
+<div class="cv-entry">
+  <div class="cv-date">2025–present</div>
+  <div class="cv-content">
+    <strong>Visiting Researcher</strong>
+    <span class="cv-org">Wellcome Sanger Institute, Cambridge, UK</span>
+    <div class="cv-detail">Research in AI for genomics and experimental design, focusing on probabilistic modelling, generative approaches, and lab-in-the-loop methodologies.</div>
   </div>
 </div>
 
@@ -49,7 +57,6 @@ title: CV
     <div class="cv-detail">Advisor: Prof. Mung Chiang, now President of Purdue University</div>
   </div>
 </div>
-
 <h2>Education</h2>
 
 <div class="cv-entry">
