@@ -7,7 +7,7 @@ title: CV
 <h2>Appointments</h2>
 
 <div class="cv-entry">
-  <div class="cv-date">Sep 2026–</div>
+  <div class="cv-date">From Sep 2026</div>
   <div class="cv-content">
     <strong>Associate Professor</strong>
     <span class="cv-org">University College London</span>
