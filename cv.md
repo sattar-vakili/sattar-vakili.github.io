@@ -7,6 +7,14 @@ title: CV
 <h2>Appointments</h2>
 
 <div class="cv-entry">
+  <div class="cv-date">Sep 2026–</div>
+  <div class="cv-content">
+    <strong>Associate Professor</strong>
+    <span class="cv-org">University College London</span>
+  </div>
+</div>
+
+<div class="cv-entry">
   <div class="cv-date">2023–present</div>
   <div class="cv-content">
     <strong>Principal AI Research Manager</strong>
@@ -31,6 +39,8 @@ title: CV
     <div class="cv-detail">Research in AI for genomics and experimental design, focusing on probabilistic modelling, generative approaches, and lab-in-the-loop methodologies.</div>
   </div>
 </div>
+
+<hr style="border: 0; border-top: 1px solid #ddd; margin: 1.5rem 0;">
 
 <div class="cv-entry">
   <div class="cv-date">2020–2023</div>
