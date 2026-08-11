@@ -2,7 +2,7 @@
 layout: home
 title: Home
 profile_picture:
-  src: /assets/img/dp2.jpg
+  src: /assets/img/sattar_vakili_pp.jpg
   alt: Sattar Vakili
 ---
 
