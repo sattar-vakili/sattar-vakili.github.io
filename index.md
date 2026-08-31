@@ -7,10 +7,12 @@ profile_picture:
 ---
 
 <div class="intro">
-  <p class="title"><strong>Principal AI Research Manager</strong></p>
+  <p class="title"><strong>Sattar Vakili</strong></p>
   <p class="affiliation">
-    <a href="https://i.mediatek.com/mediatekresearch" target="_blank">MediaTek Research</a>
+    Associate Professor in AI ·
+    <a href="https://www.ucl.ac.uk/" target="_blank">University College London</a>
   </p>
+
   <p class="secondary">
     Visiting Researcher · <a href="https://www.sanger.ac.uk/" target="_blank">Wellcome Sanger Institute</a><br>
     College Advisor · <a href="https://www.kellogg.ox.ac.uk/" target="_blank">Kellogg College, University of Oxford</a><br>
