@@ -3,23 +3,13 @@ layout: default
 title: CV
 ---
 
-
 <h2>Appointments</h2>
 
 <div class="cv-entry">
-  <div class="cv-date">From Sep 2026</div>
+  <div class="cv-date">2026–present</div>
   <div class="cv-content">
     <strong>Associate Professor</strong>
     <span class="cv-org">University College London</span>
-  </div>
-</div>
-
-<div class="cv-entry">
-  <div class="cv-date">2023–present</div>
-  <div class="cv-content">
-    <strong>Principal AI Research Manager</strong>
-    <span class="cv-org">MediaTek Research, Cambridge, UK</span>
-    <div class="cv-detail">Leading research programmes in generative models, RL, and optimisation for communication systems and chip design. Supervising PhD students, postdoctoral researchers, and interns. Contributing to strategic research planning and collaborating with academic groups.</div>
   </div>
 </div>
 
@@ -36,17 +26,20 @@ title: CV
   <div class="cv-content">
     <strong>Visiting Researcher</strong>
     <span class="cv-org">Wellcome Sanger Institute, Cambridge, UK</span>
-    <div class="cv-detail">Research in AI for genomics and experimental design, focusing on probabilistic modelling, generative approaches, and lab-in-the-loop methodologies.</div>
+    <div class="cv-detail">
+      Research in AI for genomics and experimental design, focusing on probabilistic modelling, generative approaches, and lab-in-the-loop methodologies.
+    </div>
   </div>
 </div>
 
-<hr style="border: 0; border-top: 1px solid #ddd; margin: 1.5rem 0;">
-
 <div class="cv-entry">
-  <div class="cv-date">2020–2023</div>
+  <div class="cv-date">2020–2026</div>
   <div class="cv-content">
-    <strong>Senior AI Researcher</strong>
+    <strong>Principal AI Research Manager (2023–2026)</strong>
     <span class="cv-org">MediaTek Research, Cambridge, UK</span>
+    <div class="cv-detail">
+      Senior AI Researcher (2020–2023). Led research programmes in generative models, reinforcement learning, and optimisation for communication systems and chip design. Supervised PhD students, postdoctoral researchers, and interns.
+    </div>
   </div>
 </div>
 
