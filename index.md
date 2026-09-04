@@ -8,75 +8,39 @@ profile_picture:
 
 <div class="intro">
   <p class="title"><strong>Sattar Vakili</strong></p>
-
   <p class="affiliation">
     Associate Professor in AI ·
     <a href="https://www.ucl.ac.uk/" target="_blank">University College London</a>
   </p>
 
   <p class="secondary">
-    Visiting Researcher ·
-    <a href="https://www.sanger.ac.uk/" target="_blank">Wellcome Sanger Institute</a><br>
-    College Advisor ·
-    <a href="https://www.kellogg.ox.ac.uk/" target="_blank">Kellogg College, University of Oxford</a><br>
+    Visiting Researcher · <a href="https://www.sanger.ac.uk/" target="_blank">Wellcome Sanger Institute</a><br>
+    College Advisor · <a href="https://www.kellogg.ox.ac.uk/" target="_blank">Kellogg College, University of Oxford</a><br>
     PhD (ECE) · Cornell University
   </p>
-
+  
   <div class="contact-links">
-    <div class="email-links">
-
-      <a href="mailto:s.vakili@ucl.ac.uk" class="email-item">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"
-             stroke-width="2" aria-hidden="true">
-          <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
-          <polyline points="22,6 12,13 2,6"/>
-        </svg>
-        <span class="email-label">UCL-related</span>
-        <span class="email-address">s.vakili@ucl.ac.uk</span>
-      </a>
-
-      <a href="mailto:sattar.vakili@kellogg.ox.ac.uk" class="email-item">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"
-             stroke-width="2" aria-hidden="true">
-          <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
-          <polyline points="22,6 12,13 2,6"/>
-        </svg>
-        <span class="email-label">Oxford/Kellogg</span>
-        <span class="email-address">sattar.vakili@kellogg.ox.ac.uk</span>
-      </a>
-
-      <a href="mailto:sv388@cornell.edu" class="email-item">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"
-             stroke-width="2" aria-hidden="true">
-          <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
-          <polyline points="22,6 12,13 2,6"/>
-        </svg>
-        <span class="email-label">Other enquiries</span>
-        <span class="email-address">sv388@cornell.edu</span>
-      </a>
-
-    </div>
-
-    <div class="social-links">
-      <a href="https://scholar.google.com/citations?user=N9xs8w0AAAAJ&hl=en"
-         class="contact-item" target="_blank">
-        <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
-          <path d="M12 24a7 7 0 1 1 0-14 7 7 0 0 1 0 14zm0-24L0 9.5l4.838 3.94A8 8 0 0 1 12 9a8 8 0 0 1 7.162 4.44L24 9.5z"/>
-        </svg>
-        Google Scholar
-      </a>
-
-      <a href="https://www.linkedin.com/in/sattar-vakili-221a1b63"
-         class="contact-item" target="_blank">
-        <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
-          <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
-        </svg>
-        LinkedIn
-      </a>
-    </div>
+    <a href="mailto:sv388@cornell.edu" class="contact-item">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
+      sv388@cornell.edu
+    </a>
+    <a href="https://scholar.google.com/citations?user=N9xs8w0AAAAJ&hl=en" class="contact-item" target="_blank">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 24a7 7 0 1 1 0-14 7 7 0 0 1 0 14zm0-24L0 9.5l4.838 3.94A8 8 0 0 1 12 9a8 8 0 0 1 7.162 4.44L24 9.5z"/></svg>
+      Google Scholar
+    </a>
+    <a href="https://www.linkedin.com/in/sattar-vakili-221a1b63" class="contact-item" target="_blank">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
+      LinkedIn
+    </a>
   </div>
 </div>
 
+<section class="research-interests">
+  <h2>Research Interests</h2>
+  <p>
+    Sequential Decision-Making (RL, Bandits and Bayesian Optimisation) · Foundation and Generative Models · AI for Science and Intelligent Systems
+  </p>
+</section>
 
 
 <section class="phd-opportunities">
