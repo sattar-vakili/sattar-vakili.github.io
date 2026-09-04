@@ -35,6 +35,13 @@ profile_picture:
   </div>
 </div>
 
+<section class="phd-opportunities">
+  <h2>PhD Opportunities</h2>
+  <p>
+    I am recruiting PhD students in foundational AI, sequential decision-making, and generative models. Please email me with your CV and a brief description of your research interests, using the subject line “Prospective PhD Student”.
+  </p>
+</section>
+
 <section class="research-interests">
   <h2>Research Interests</h2>
   <p>
