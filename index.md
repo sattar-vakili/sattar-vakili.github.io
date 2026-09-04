@@ -20,9 +20,9 @@ profile_picture:
   </p>
   
   <div class="contact-links">
-    <a href="mailto:sv388@cornell.edu" class="contact-item">
+    <a href="mailto:s.vakili@ucl.ac.uk" class="contact-item">
       <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
-      sv388@cornell.edu
+      s.vakili@ucl.ac.uk
     </a>
     <a href="https://scholar.google.com/citations?user=N9xs8w0AAAAJ&hl=en" class="contact-item" target="_blank">
       <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 24a7 7 0 1 1 0-14 7 7 0 0 1 0 14zm0-24L0 9.5l4.838 3.94A8 8 0 0 1 12 9a8 8 0 0 1 7.162 4.44L24 9.5z"/></svg>
@@ -50,12 +50,6 @@ profile_picture:
   </p>
 </section>
 
-<section class="research-interests">
-  <h2>Research Interests</h2>
-  <p>
-    Sequential Decision-Making (RL, Bandits and Bayesian Optimisation) · Foundation and Generative Models · AI for Science and Intelligent Systems
-  </p>
-</section>
 
 <section class="latest">
   <h2>Latest</h2>
